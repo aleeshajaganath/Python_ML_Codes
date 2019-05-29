@@ -1,0 +1,82 @@
+1|Tom Hanks
+1|Tim Allen
+1|Don Rickles
+1|Jim Varney
+1|Wallace Shawn
+1|John Ratzenberger
+1|Annie Potts
+1|John Morris
+1|Erik von Detten
+1|Laurie Metcalf
+1|R. Lee Ermey
+1|Sarah Freeman
+1|Penn Jillette
+1|Jack Angel
+1|Spencer Aste
+2|Pierce Brosnan
+2|Sean Bean
+2|Izabella Scorupco
+2|Famke Janssen
+2|Joe Don Baker
+2|Judi Dench
+2|Robbie Coltrane
+s
+120|Robert Patrick
+120|Paul Guilfoyle
+120|Jerry Grayson
+120|Rumer Willis
+120|Robert Stanton
+120|William Hill
+120|Stuart Pankin
+120|Dina Spybey-Waters
+120|PaSean Wilson
+120|Pandora Peaks
+120|Barbara Alyn Woods
+121|Will Smith
+121|Bill Pullman
+121|Jeff Goldblum
+121|Mary McDonnell
+121|Judd Hirsch
+121|Robert Loggia
+121|Randy Quaid
+121|Margaret Colin
+121|James Rebhorn
+121|Harvey Fierstein
+121|Adam Baldwin
+121|Brent Spiner
+121|James Duval
+121|Vivica A. Fox
+121|Lisa Jakub
+122|Jim Carrey
+122|Matthew Broderick
+122|Leslie Mann
+122|Jack Black
+122|George Segal
+122|Diane Baker
+122|Ben Stiller
+122|Eric Roberts
+122|Janeane Garofalo
+122|Andy Dick
+122|Harry O'Reilly
+122|David Cross
+122|Amy Stiller
+122|Owen Wilson
+122|Keith Gibbs
+123|Michael J. Fox
+123|Trini Alvarado
+123|Peter Dobson
+123|John Astin
+123|Jeffrey Combs
+123|Dee Wallace
+123|Jake Busey
+123|Chi McBride
+123|Jim Fyfe
+123|Troy Evans
+123|Julianna McCarthy
+123|R. Lee Ermey
+123|Elizabeth Hawthorne
+123|Angela Bloomfield
+123|Desmond Kelly
+124|Stephen Mendillo
+124|Stephen J. Lang
+124|Chris Cooper

@@ -1,0 +1,1624 @@
+1|Toy Story (1995)|https://www.imdb.com/find?q=Toy%20Story%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+2|GoldenEye (1995)|https://www.imdb.com/find?q=GoldenEye%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+3|Four Rooms (1995)|https://www.imdb.com/find?q=Four%20Rooms%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+4|Get Shorty (1995)|https://www.imdb.com/find?q=Get%20Shorty%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+5|Copycat (1995)|https://www.imdb.com/find?q=Copycat%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+6|Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)|https://www.imdb.com/find?q=Shanghai+Triad+(1995)&s=tt&ttype=ft&ref_=fn_ft
+7|Twelve Monkeys (1995)|https://www.imdb.com/find?q=Twelve%20Monkeys%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+8|Babe (1995)|https://www.imdb.com/find?q=Babe%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+9|Dead Man Walking (1995)|https://www.imdb.com/find?q=Dead%20Man%20Walking%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+10|Richard III (1995)|https://www.imdb.com/find?q=Richard%20III%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+11|Seven (Se7en) (1995)|https://www.imdb.com/find?q=Se7en%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+12|Usual Suspects, The (1995)|https://www.imdb.com/find?q=Usual%20Suspects,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+13|Mighty Aphrodite (1995)|https://www.imdb.com/find?q=Mighty%20Aphrodite%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+14|Postino, Il (1994)|https://www.imdb.com/find?q=Postino,%20Il%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+15|Mr. Holland's Opus (1995)|https://www.imdb.com/find?q=Mr.%20Holland's%20Opus%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+16|French Twist (Gazon maudit) (1995)|https://www.imdb.com/find?q=Gazon%20maudit%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+17|From Dusk Till Dawn (1996)|https://www.imdb.com/find?q=From%20Dusk%20Till%20Dawn%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+18|White Balloon, The (1995)|https://www.imdb.com/find?q=Badkonake%20Sefid%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+19|Antonia's Line (1995)|https://www.imdb.com/find?q=Antonia%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+20|Angels and Insects (1995)|https://www.imdb.com/find?q=Angels%20and%20Insects%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+21|Muppet Treasure Island (1996)|https://www.imdb.com/find?q=Muppet%20Treasure%20Island%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+22|Braveheart (1995)|https://www.imdb.com/find?q=Braveheart%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+23|Taxi Driver (1976)|https://www.imdb.com/find?q=Taxi%20Driver%20(1976)&s=tt&ttype=ft&ref_=fn_ft
+24|Rumble in the Bronx (1995)|https://www.imdb.com/find?q=Hong%20Faan%20Kui%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+25|Birdcage, The (1996)|https://www.imdb.com/find?q=Birdcage,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+26|Brothers McMullen, The (1995)|https://www.imdb.com/find?q=Brothers%20McMullen,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+27|Bad Boys (1995)|https://www.imdb.com/find?q=Bad%20Boys%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+28|Apollo 13 (1995)|https://www.imdb.com/find?q=Apollo%2013%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+29|Batman Forever (1995)|https://www.imdb.com/find?q=Batman%20Forever%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+30|Belle de jour (1967)|https://www.imdb.com/find?q=Belle%20de%20jour%20(1967)&s=tt&ttype=ft&ref_=fn_ft
+31|Crimson Tide (1995)|https://www.imdb.com/find?q=Crimson%20Tide%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+32|Crumb (1994)|https://www.imdb.com/find?q=Crumb%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+33|Desperado (1995)|https://www.imdb.com/find?q=Desperado%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+34|Doom Generation, The (1995)|https://www.imdb.com/find?q=Doom%20Generation,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+35|Free Willy 2: The Adventure Home (1995)|https://www.imdb.com/find?q=Free%20Willy%202:%20The%20Adventure%20Home%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+36|Mad Love (1995)|https://www.imdb.com/find?q=Mad%20Love%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+37|Nadja (1994)|https://www.imdb.com/find?q=Nadja%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+38|Net, The (1995)|https://www.imdb.com/find?q=Net,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+39|Strange Days (1995)|https://www.imdb.com/find?q=Strange%20Days%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+40|To Wong Foo, Thanks for Everything! Julie Newmar (1995)|https://www.imdb.com/find?q=To%20Wong%20Foo,%20Thanks%20for%20Everything!%20Julie%20Newmar%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+41|Billy Madison (1995)|https://www.imdb.com/find?q=Billy%20Madison%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+42|Clerks (1994)|https://www.imdb.com/find?q=Clerks%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+43|Disclosure (1994)|https://www.imdb.com/find?q=Disclosure%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+44|Dolores Claiborne (1994)|https://www.imdb.com/find?q=Dolores%20Claiborne%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+46|Exotica (1994)|https://www.imdb.com/find?q=Exotica%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+47|Ed Wood (1994)|https://www.imdb.com/find?q=Ed%20Wood%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+48|Hoop Dreams (1994)|https://www.imdb.com/find?q=Hoop%20Dreams%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+49|I.Q. (1994)|https://www.imdb.com/find?q=I.Q.%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+50|Star Wars (1977)|https://www.imdb.com/find?q=Star%20Wars%20(1977)&s=tt&ttype=ft&ref_=fn_ft
+51|Legends of the Fall (1994)|https://www.imdb.com/find?q=Legends%20of%20the%20Fall%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+52|Madness of King George, The (1994)|https://www.imdb.com/find?q=Madness%20of%20King%20George,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+53|Natural Born Killers (1994)|https://www.imdb.com/find?q=Natural%20Born%20Killers%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+54|Outbreak (1995)|https://www.imdb.com/find?q=Outbreak%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+55|Professional, The (1994)|https://www.imdb.com/find?q=L%E9on+(1994)&s=tt&ttype=ft&ref_=fn_ft
+56|Pulp Fiction (1994)|https://www.imdb.com/find?q=Pulp%20Fiction%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+57|Priest (1994)|https://www.imdb.com/find?q=Priest%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+58|Quiz Show (1994)|https://www.imdb.com/find?q=Quiz%20Show%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+59|Three Colors: Red (1994)|https://www.imdb.com/find?q=Trzy%20kolory:%20Czerwony%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+60|Three Colors: Blue (1993)|https://www.imdb.com/find?q=Trzy%20kolory:%20Niebieski%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+61|Three Colors: White (1994)|https://www.imdb.com/find?q=Trzy%20kolory:%20Bialy%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+62|Stargate (1994)|https://www.imdb.com/find?q=Stargate%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+63|Santa Clause, The (1994)|https://www.imdb.com/find?q=Santa%20Clause,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+64|Shawshank Redemption, The (1994)|https://www.imdb.com/find?q=Shawshank%20Redemption,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+65|What's Eating Gilbert Grape (1993)|https://www.imdb.com/find?q=What's%20Eating%20Gilbert%20Grape%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+66|While You Were Sleeping (1995)|https://www.imdb.com/find?q=While%20You%20Were%20Sleeping%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+67|Ace Ventura: Pet Detective (1994)|https://www.imdb.com/find?q=Ace%20Ventura:%20Pet%20Detective%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+68|Crow, The (1994)|https://www.imdb.com/find?q=Crow,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+69|Forrest Gump (1994)|https://www.imdb.com/find?q=Forrest%20Gump%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+70|Four Weddings and a Funeral (1994)|https://www.imdb.com/find?q=Four%20Weddings%20and%20a%20Funeral%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+71|Lion King, The (1994)|https://www.imdb.com/find?q=Lion%20King,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+72|Mask, The (1994)|https://www.imdb.com/find?q=Mask,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+73|Maverick (1994)|https://www.imdb.com/find?q=Maverick%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+74|Faster Pussycat! Kill! Kill! (1965)|https://www.imdb.com/find?q=Faster%20Pussycat!%20Kill!%20Kill!%20(1965)&s=tt&ttype=ft&ref_=fn_ft
+75|Brother Minister: The Assassination of Malcolm X (1994)|https://www.imdb.com/find?q=Brother%20Minister:%20The%20Assassination%20of%20Malcolm%20X%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+76|Carlito's Way (1993)|https://www.imdb.com/find?q=Carlito's%20Way%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+77|Firm, The (1993)|https://www.imdb.com/find?q=Firm,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+78|Free Willy (1993)|https://www.imdb.com/find?q=Free%20Willy%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+79|Fugitive, The (1993)|https://www.imdb.com/find?q=Fugitive,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+80|Hot Shots! Part Deux (1993)|https://www.imdb.com/find?q=Hot%20Shots!%20Part%20Deux%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+81|Hudsucker Proxy, The (1994)|https://www.imdb.com/find?q=Hudsucker%20Proxy,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+82|Jurassic Park (1993)|https://www.imdb.com/find?q=Jurassic%20Park%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+83|Much Ado About Nothing (1993)|https://www.imdb.com/find?q=Much%20Ado%20About%20Nothing%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+84|Robert A. Heinlein's The Puppet Masters (1994)|https://www.imdb.com/find?q=Robert%20A.%20Heinlein's%20The%20Puppet%20Masters%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+85|Ref, The (1994)|https://www.imdb.com/find?q=Ref,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+86|Remains of the Day, The (1993)|https://www.imdb.com/find?q=Remains%20of%20the%20Day,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+87|Searching for Bobby Fischer (1993)|https://www.imdb.com/find?q=Searching%20for%20Bobby%20Fischer%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+88|Sleepless in Seattle (1993)|https://www.imdb.com/find?q=Sleepless%20in%20Seattle%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+89|Blade Runner (1982)|https://www.imdb.com/find?q=Blade%20Runner%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+90|So I Married an Axe Murderer (1993)|https://www.imdb.com/find?q=So%20I%20Married%20an%20Axe%20Murderer%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+91|Nightmare Before Christmas, The (1993)|https://www.imdb.com/find?q=Nightmare%20Before%20Christmas,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+92|True Romance (1993)|https://www.imdb.com/find?q=True%20Romance%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+93|Welcome to the Dollhouse (1995)|https://www.imdb.com/find?q=Welcome+to+the+Dollhouse+(1995)&s=tt&ttype=ft&ref_=fn_ft
+94|Home Alone (1990)|https://www.imdb.com/find?q=Home%20Alone%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+95|Aladdin (1992)|https://www.imdb.com/find?q=Aladdin%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+96|Terminator 2: Judgment Day (1991)|https://www.imdb.com/find?q=Terminator%202:%20Judgment%20Day%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+97|Dances with Wolves (1990)|https://www.imdb.com/find?q=Dances%20with%20Wolves%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+98|Silence of the Lambs, The (1991)|https://www.imdb.com/find?q=Silence%20of%20the%20Lambs,%20The%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+99|Snow White and the Seven Dwarfs (1937)|https://www.imdb.com/find?q=Snow%20White%20and%20the%20Seven%20Dwarfs%20(1937)&s=tt&ttype=ft&ref_=fn_ft
+100|Fargo (1996)|https://www.imdb.com/find?q=Fargo%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+101|Heavy Metal (1981)|https://www.imdb.com/find?q=Heavy%20Metal%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+102|Aristocats, The (1970)|https://www.imdb.com/find?q=Aristocats,%20The%20(1970)&s=tt&ttype=ft&ref_=fn_ft
+103|All Dogs Go to Heaven 2 (1996)|https://www.imdb.com/find?q=All%20Dogs%20Go%20to%20Heaven%202%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+104|Theodore Rex (1995)|https://www.imdb.com/find?q=Theodore%20Rex%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+105|Sgt. Bilko (1996)|https://www.imdb.com/find?q=Sgt.%20Bilko%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+106|Diabolique (1996)|https://www.imdb.com/find?q=Diabolique%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+107|Moll Flanders (1996)|https://www.imdb.com/find?q=Moll%20Flanders%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+108|Kids in the Hall: Brain Candy (1996)|https://www.imdb.com/find?q=Kids%20in%20the%20Hall:%20Brain%20Candy%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+109|Mystery Science Theater 3000: The Movie (1996)|https://www.imdb.com/find?q=Mystery%20Science%20Theater%203000:%20The%20Movie%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+110|Operation Dumbo Drop (1995)|https://www.imdb.com/find?q=Operation%20Dumbo%20Drop%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+111|Truth About Cats & Dogs, The (1996)|https://www.imdb.com/find?q=Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+112|Flipper (1996)|https://www.imdb.com/find?q=Flipper%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+113|Horseman on the Roof, The (Hussard sur le toit, Le) (1995)|https://www.imdb.com/find?q=Hussard%20sur%20le%20toit,%20Le%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+115|Haunted World of Edward D. Wood Jr., The (1995)|https://www.imdb.com/find?q=Haunted+World+of+Edward+D.+Wood+Jr.,+The+(1995)&s=tt&ttype=ft&ref_=fn_ft
+116|Cold Comfort Farm (1995)|https://www.imdb.com/find?q=Cold%20Comfort%20Farm%20(1995)%20(TV)&s=tt&ttype=ft&ref_=fn_ft
+117|Rock, The (1996)|https://www.imdb.com/find?q=Rock,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+118|Twister (1996)|https://www.imdb.com/find?q=Twister%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+119|Maya Lin: A Strong Clear Vision (1994)|https://www.imdb.com/find?q=Maya%20Lin:%20A%20Strong%20Clear%20Vision%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+120|Striptease (1996)|https://www.imdb.com/find?q=Striptease%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+121|Independence Day (ID4) (1996)|https://www.imdb.com/find?q=Independence%20Day%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+122|Cable Guy, The (1996)|https://www.imdb.com/find?q=Cable%20Guy,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+123|Frighteners, The (1996)|https://www.imdb.com/find?q=Frighteners,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+124|Lone Star (1996)|https://www.imdb.com/find?q=Lone%20Star%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+125|Phenomenon (1996)|https://www.imdb.com/find?q=Phenomenon%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+126|Spitfire Grill, The (1996)|https://www.imdb.com/find?q=Spitfire%20Grill,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+127|Godfather, The (1972)|https://www.imdb.com/find?q=Godfather,%20The%20(1972)&s=tt&ttype=ft&ref_=fn_ft
+128|Supercop (1992)|https://www.imdb.com/find?q=Police%20Story%20III:%20Supercop%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+129|Bound (1996)|https://www.imdb.com/find?q=Bound%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+130|Kansas City (1996)|https://www.imdb.com/find?q=Kansas%20City%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+131|Breakfast at Tiffany's (1961)|https://www.imdb.com/find?q=Breakfast%20at%20Tiffany's%20(1961)&s=tt&ttype=ft&ref_=fn_ft
+132|Wizard of Oz, The (1939)|https://www.imdb.com/find?q=Wizard%20of%20Oz,%20The%20(1939)&s=tt&ttype=ft&ref_=fn_ft
+133|Gone with the Wind (1939)|https://www.imdb.com/find?q=Gone%20with%20the%20Wind%20(1939)&s=tt&ttype=ft&ref_=fn_ft
+134|Citizen Kane (1941)|https://www.imdb.com/find?q=Citizen%20Kane%20(1941)&s=tt&ttype=ft&ref_=fn_ft
+135|2001: A Space Odyssey (1968)|https://www.imdb.com/find?q=2001:%20A%20Space%20Odyssey%20(1968)&s=tt&ttype=ft&ref_=fn_ft
+136|Mr. Smith Goes to Washington (1939)|https://www.imdb.com/find?q=Mr.%20Smith%20Goes%20to%20Washington%20(1939)&s=tt&ttype=ft&ref_=fn_ft
+137|Big Night (1996)|https://www.imdb.com/find?q=Big%20Night%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+138|D3: The Mighty Ducks (1996)|https://www.imdb.com/find?q=D3:%20The%20Mighty%20Ducks%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+139|Love Bug, The (1969)|https://www.imdb.com/find?q=Love%20Bug,%20The%20(1969)&s=tt&ttype=ft&ref_=fn_ft
+140|Homeward Bound: The Incredible Journey (1993)|https://www.imdb.com/find?q=Homeward%20Bound:%20The%20Incredible%20Journey%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+141|20,000 Leagues Under the Sea (1954)|https://www.imdb.com/find?q=20,000%20Leagues%20Under%20the%20Sea%20(1954)&s=tt&ttype=ft&ref_=fn_ft
+142|Bedknobs and Broomsticks (1971)|https://www.imdb.com/find?q=Bedknobs%20and%20Broomsticks%20(1971)&s=tt&ttype=ft&ref_=fn_ft
+143|Sound of Music, The (1965)|https://www.imdb.com/find?q=Sound%20of%20Music,%20The%20(1965)&s=tt&ttype=ft&ref_=fn_ft
+144|Die Hard (1988)|https://www.imdb.com/find?q=Die%20Hard%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+145|Lawnmower Man, The (1992)|https://www.imdb.com/find?q=Lawnmower%20Man,%20The%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+146|Unhook the Stars (1996)|https://www.imdb.com/find?q=Unhook%20the%20Stars%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+147|Long Kiss Goodnight, The (1996)|https://www.imdb.com/find?q=Long%20Kiss%20Goodnight,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+148|Ghost and the Darkness, The (1996)|https://www.imdb.com/find?q=Ghost%20and%20the%20Darkness,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+149|Jude (1996)|https://www.imdb.com/find?q=Jude%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+150|Swingers (1996)|https://www.imdb.com/find?q=Swingers%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+151|Willy Wonka and the Chocolate Factory (1971)|https://www.imdb.com/find?q=Willy%20Wonka%20and%20the%20Chocolate%20Factory%20(1971)&s=tt&ttype=ft&ref_=fn_ft
+152|Sleeper (1973)|https://www.imdb.com/find?q=Sleeper%20(1973)&s=tt&ttype=ft&ref_=fn_ft
+153|Fish Called Wanda, A (1988)|https://www.imdb.com/find?q=Fish%20Called%20Wanda,%20A%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+154|Monty Python's Life of Brian (1979)|https://www.imdb.com/find?q=Life%20of%20Brian%20(1979)&s=tt&ttype=ft&ref_=fn_ft
+155|Dirty Dancing (1987)|https://www.imdb.com/find?q=Dirty%20Dancing%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+156|Reservoir Dogs (1992)|https://www.imdb.com/find?q=Reservoir%20Dogs%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+157|Platoon (1986)|https://www.imdb.com/find?q=Platoon%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+158|Weekend at Bernie's (1989)|https://www.imdb.com/find?q=Weekend%20at%20Bernie's%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+159|Basic Instinct (1992)|https://www.imdb.com/find?q=Basic%20Instinct%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+160|Glengarry Glen Ross (1992)|https://www.imdb.com/find?q=Glengarry%20Glen%20Ross%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+161|Top Gun (1986)|https://www.imdb.com/find?q=Top%20Gun%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+162|On Golden Pond (1981)|https://www.imdb.com/find?q=On%20Golden%20Pond%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+163|Return of the Pink Panther, The (1974)|https://www.imdb.com/find?q=Return%20of%20the%20Pink%20Panther,%20The%20(1974)&s=tt&ttype=ft&ref_=fn_ft
+164|Abyss, The (1989)|https://www.imdb.com/find?q=Abyss,%20The%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+165|Jean de Florette (1986)|https://www.imdb.com/find?q=Jean%20de%20Florette%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+166|Manon of the Spring (Manon des sources) (1986)|https://www.imdb.com/find?q=Manon%20des%20sources%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+167|Private Benjamin (1980)|https://www.imdb.com/find?q=Private%20Benjamin%20(1980)&s=tt&ttype=ft&ref_=fn_ft
+168|Monty Python and the Holy Grail (1974)|https://www.imdb.com/find?q=Monty%20Python%20and%20the%20Holy%20Grail%20(1974)&s=tt&ttype=ft&ref_=fn_ft
+169|Wrong Trousers, The (1993)|https://www.imdb.com/find?q=Wrong%20Trousers,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+170|Cinema Paradiso (1988)|https://www.imdb.com/find?q=Nuovo%20cinema%20Paradiso%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+171|Delicatessen (1991)|https://www.imdb.com/find?q=Delicatessen%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+172|Empire Strikes Back, The (1980)|https://www.imdb.com/find?q=Empire%20Strikes%20Back,%20The%20(1980)&s=tt&ttype=ft&ref_=fn_ft
+173|Princess Bride, The (1987)|https://www.imdb.com/find?q=Princess%20Bride,%20The%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+174|Raiders of the Lost Ark (1981)|https://www.imdb.com/find?q=Raiders%20of%20the%20Lost%20Ark%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+175|Brazil (1985)|https://www.imdb.com/find?q=Brazil%20(1985)&s=tt&ttype=ft&ref_=fn_ft
+176|Aliens (1986)|https://www.imdb.com/find?q=Aliens%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+177|Good, The Bad and The Ugly, The (1966)|https://www.imdb.com/find?q=Buono,%20il%20brutto,%20il%20cattivo,%20Il%20(1966)&s=tt&ttype=ft&ref_=fn_ft
+178|12 Angry Men (1957)|https://www.imdb.com/find?q=12%20Angry%20Men%20(1957)&s=tt&ttype=ft&ref_=fn_ft
+179|Clockwork Orange, A (1971)|https://www.imdb.com/find?q=Clockwork%20Orange,%20A%20(1971)&s=tt&ttype=ft&ref_=fn_ft
+180|Apocalypse Now (1979)|https://www.imdb.com/find?q=Apocalypse%20Now%20(1979)&s=tt&ttype=ft&ref_=fn_ft
+181|Return of the Jedi (1983)|https://www.imdb.com/find?q=Return%20of%20the%20Jedi%20(1983)&s=tt&ttype=ft&ref_=fn_ft
+182|GoodFellas (1990)|https://www.imdb.com/find?q=GoodFellas%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+183|Alien (1979)|https://www.imdb.com/find?q=Alien%20(1979)&s=tt&ttype=ft&ref_=fn_ft
+184|Army of Darkness (1993)|https://www.imdb.com/find?q=Army%20of%20Darkness%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+185|Psycho (1960)|https://www.imdb.com/find?q=Psycho%20(1960)&s=tt&ttype=ft&ref_=fn_ft
+186|Blues Brothers, The (1980)|https://www.imdb.com/find?q=Blues%20Brothers,%20The%20(1980)&s=tt&ttype=ft&ref_=fn_ft
+187|Godfather: Part II, The (1974)|https://www.imdb.com/find?q=Godfather:%20Part%20II,%20The%20(1974)&s=tt&ttype=ft&ref_=fn_ft
+188|Full Metal Jacket (1987)|https://www.imdb.com/find?q=Full%20Metal%20Jacket%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+189|Grand Day Out, A (1992)|https://www.imdb.com/find?q=Grand%20Day%20Out,%20A%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+190|Henry V (1989)|https://www.imdb.com/find?q=Henry%20V%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+191|Amadeus (1984)|https://www.imdb.com/find?q=Amadeus%20(1984)&s=tt&ttype=ft&ref_=fn_ft
+192|Raging Bull (1980)|https://www.imdb.com/find?q=Raging%20Bull%20(1980)&s=tt&ttype=ft&ref_=fn_ft
+193|Right Stuff, The (1983)|https://www.imdb.com/find?q=Right%20Stuff,%20The%20(1983)&s=tt&ttype=ft&ref_=fn_ft
+194|Sting, The (1973)|https://www.imdb.com/find?q=Sting,%20The%20(1973)&s=tt&ttype=ft&ref_=fn_ft
+195|Terminator, The (1984)|https://www.imdb.com/find?q=Terminator,%20The%20(1984)&s=tt&ttype=ft&ref_=fn_ft
+196|Dead Poets Society (1989)|https://www.imdb.com/find?q=Dead%20Poets%20Society%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+197|Graduate, The (1967)|https://www.imdb.com/find?q=Graduate,%20The%20(1967)&s=tt&ttype=ft&ref_=fn_ft
+198|Nikita (La Femme Nikita) (1990)|https://www.imdb.com/find?q=Nikita%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+199|Bridge on the River Kwai, The (1957)|https://www.imdb.com/find?q=Bridge%20on%20the%20River%20Kwai,%20The%20(1957)&s=tt&ttype=ft&ref_=fn_ft
+200|Shining, The (1980)|https://www.imdb.com/find?q=Shining,%20The%20(1980)&s=tt&ttype=ft&ref_=fn_ft
+201|Evil Dead II (1987)|https://www.imdb.com/find?q=Evil%20Dead%20II%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+202|Groundhog Day (1993)|https://www.imdb.com/find?q=Groundhog%20Day%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+203|Unforgiven (1992)|https://www.imdb.com/find?q=Unforgiven%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+204|Back to the Future (1985)|https://www.imdb.com/find?q=Back%20to%20the%20Future%20(1985)&s=tt&ttype=ft&ref_=fn_ft
+205|Patton (1970)|https://www.imdb.com/find?q=Patton%20(1970)&s=tt&ttype=ft&ref_=fn_ft
+206|Akira (1988)|https://www.imdb.com/find?q=Akira%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+207|Cyrano de Bergerac (1990)|https://www.imdb.com/find?q=Cyrano%20de%20Bergerac%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+208|Young Frankenstein (1974)|https://www.imdb.com/find?q=Young%20Frankenstein%20(1974)&s=tt&ttype=ft&ref_=fn_ft
+209|This Is Spinal Tap (1984)|https://www.imdb.com/find?q=This%20Is%20Spinal%20Tap%20(1984)&s=tt&ttype=ft&ref_=fn_ft
+210|Indiana Jones and the Last Crusade (1989)|https://www.imdb.com/find?q=Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+211|M*A*S*H (1970)|https://www.imdb.com/find?q=MASH%20(1970)&s=tt&ttype=ft&ref_=fn_ft
+212|Unbearable Lightness of Being, The (1988)|https://www.imdb.com/find?q=Unbearable%20Lightness%20of%20Being,%20The%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+213|Room with a View, A (1986)|https://www.imdb.com/find?q=Room%20with%20a%20View,%20A%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+214|Pink Floyd - The Wall (1982)|https://www.imdb.com/find?q=Pink%20Floyd%20-%20The%20Wall%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+215|Field of Dreams (1989)|https://www.imdb.com/find?q=Field%20of%20Dreams%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+216|When Harry Met Sally... (1989)|https://www.imdb.com/find?q=When%20Harry%20Met%20Sally...%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+217|Bram Stoker's Dracula (1992)|https://www.imdb.com/find?q=Bram%20Stoker's%20Dracula%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+218|Cape Fear (1991)|https://www.imdb.com/find?q=Cape%20Fear%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+219|Nightmare on Elm Street, A (1984)|https://www.imdb.com/find?q=Nightmare%20on%20Elm%20Street,%20A%20(1984)&s=tt&ttype=ft&ref_=fn_ft
+220|Mirror Has Two Faces, The (1996)|https://www.imdb.com/find?q=Mirror%20Has%20Two%20Faces,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+221|Breaking the Waves (1996)|https://www.imdb.com/find?q=Breaking%20the%20Waves%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+222|Star Trek: First Contact (1996)|https://www.imdb.com/find?q=Star%20Trek:%20First%20Contact%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+223|Sling Blade (1996)|https://www.imdb.com/find?q=Sling%20Blade%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+224|Ridicule (1996)|https://www.imdb.com/find?q=Ridicule%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+225|101 Dalmatians (1996)|https://www.imdb.com/find?q=101%20Dalmatians%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+226|Die Hard 2 (1990)|https://www.imdb.com/find?q=Die%20Hard%202%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+227|Star Trek VI: The Undiscovered Country (1991)|https://www.imdb.com/find?q=Star%20Trek%20VI:%20The%20Undiscovered%20Country%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+228|Star Trek: The Wrath of Khan (1982)|https://www.imdb.com/find?q=Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+229|Star Trek III: The Search for Spock (1984)|https://www.imdb.com/find?q=Star%20Trek%20III:%20The%20Search%20for%20Spock%20(1984)&s=tt&ttype=ft&ref_=fn_ft
+230|Star Trek IV: The Voyage Home (1986)|https://www.imdb.com/find?q=Star%20Trek%20IV:%20The%20Voyage%20Home%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+231|Batman Returns (1992)|https://www.imdb.com/find?q=Batman%20Returns%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+232|Young Guns (1988)|https://www.imdb.com/find?q=Young%20Guns%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+233|Under Siege (1992)|https://www.imdb.com/find?q=Under%20Siege%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+234|Jaws (1975)|https://www.imdb.com/find?q=Jaws%20(1975)&s=tt&ttype=ft&ref_=fn_ft
+235|Mars Attacks! (1996)|https://www.imdb.com/find?q=Mars%20Attacks!%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+236|Citizen Ruth (1996)|https://www.imdb.com/find?q=Citizen%20Ruth%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+237|Jerry Maguire (1996)|https://www.imdb.com/find?q=Jerry%20Maguire%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+238|Raising Arizona (1987)|https://www.imdb.com/find?q=Raising%20Arizona%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+239|Sneakers (1992)|https://www.imdb.com/find?q=Sneakers%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+240|Beavis and Butt-head Do America (1996)|https://www.imdb.com/find?q=Beavis%20and%20Butt-head%20Do%20America%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+241|Last of the Mohicans, The (1992)|https://www.imdb.com/find?q=Last%20of%20the%20Mohicans,%20The%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+242|Kolya (1996)|https://www.imdb.com/find?q=Kolya%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+243|Jungle2Jungle (1997)|https://www.imdb.com/find?q=Jungle2Jungle%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+244|Smilla's Sense of Snow (1997)|https://www.imdb.com/find?q=Smilla%27s%20Sense%20of%20Snow%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+245|Devil's Own, The (1997)|https://www.imdb.com/find?q=Devil%27s%20Own%2C%20The%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+246|Chasing Amy (1997)|https://www.imdb.com/find?q=Chasing+Amy+(1997)&s=tt&ttype=ft&ref_=fn_ft
+247|Turbo: A Power Rangers Movie (1997)|https://www.imdb.com/find?q=Turbo%3A%20A%20Power%20Rangers%20Movie%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+248|Grosse Pointe Blank (1997)|https://www.imdb.com/find?q=Grosse%20Pointe%20Blank%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+249|Austin Powers: International Man of Mystery (1997)|https://www.imdb.com/find?q=Austin%20Powers%3A%20International%20Man%20of%20Mystery%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+250|Fifth Element, The (1997)|https://www.imdb.com/find?q=Fifth%20Element%2C%20The%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+251|Shall We Dance? (1996)|https://www.imdb.com/find?q=Shall%20we%20DANSU%3F%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+252|Lost World: Jurassic Park, The (1997)|https://www.imdb.com/find?q=Lost%20World%3A%20Jurassic%20Park%2C%20The%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+253|Pillow Book, The (1995)|https://www.imdb.com/find?q=Pillow%20Book%2C%20The%20%281995%29&s=tt&ttype=ft&ref_=fn_ft
+254|Batman & Robin (1997)|https://www.imdb.com/find?q=Batman+%26+Robin+(1997)&s=tt&ttype=ft&ref_=fn_ft
+255|My Best Friend's Wedding (1997)|https://www.imdb.com/find?q=My+Best+Friend%27s+Wedding+(1997)&s=tt&ttype=ft&ref_=fn_ft
+256|When the Cats Away (Chacun cherche son chat) (1996)|https://www.imdb.com/find?q=Chacun+cherche+son+chat+(1996)&s=tt&ttype=ft&ref_=fn_ft
+257|Men in Black (1997)|https://www.imdb.com/find?q=Men+in+Black+(1997)&s=tt&ttype=ft&ref_=fn_ft
+258|Contact (1997)|https://www.imdb.com/find?q=Contact+(1997/I)&s=tt&ttype=ft&ref_=fn_ft
+259|George of the Jungle (1997)|https://www.imdb.com/find?q=George+of+the+Jungle+(1997)&s=tt&ttype=ft&ref_=fn_ft
+260|Event Horizon (1997)|https://www.imdb.com/find?q=Event+Horizon+(1997)&s=tt&ttype=ft&ref_=fn_ft
+261|Air Bud (1997)|https://www.imdb.com/find?q=Air+Bud+(1997)&s=tt&ttype=ft&ref_=fn_ft
+262|In the Company of Men (1997)|https://www.imdb.com/find?q=In+the+Company+of+Men+(1997)&s=tt&ttype=ft&ref_=fn_ft
+263|Steel (1997)|https://www.imdb.com/find?q=Steel+(1997)&s=tt&ttype=ft&ref_=fn_ft
+264|Mimic (1997)|https://www.imdb.com/find?q=Mimic+(1997)&s=tt&ttype=ft&ref_=fn_ft
+265|Hunt for Red October, The (1990)|https://www.imdb.com/find?q=Hunt+for+Red+October%2C+The+(1990)&s=tt&ttype=ft&ref_=fn_ft
+266|Kull the Conqueror (1997)|https://www.imdb.com/find?q=Kull+the+Conqueror+(1997)&s=tt&ttype=ft&ref_=fn_ft
+268|Chasing Amy (1997)|https://www.imdb.com/find?q=Chasing+Amy+(1997)&s=tt&ttype=ft&ref_=fn_ft
+269|Full Monty, The (1997)|https://www.imdb.com/find?q=Full+Monty%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+270|Gattaca (1997)|https://www.imdb.com/find?q=Gattaca+(1997)&s=tt&ttype=ft&ref_=fn_ft
+271|Starship Troopers (1997)|https://www.imdb.com/find?q=Starship+Troopers+(1997)&s=tt&ttype=ft&ref_=fn_ft
+273|Heat (1995)|https://www.imdb.com/find?q=Heat%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+274|Sabrina (1995)|https://www.imdb.com/find?q=Sabrina%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+275|Sense and Sensibility (1995)|https://www.imdb.com/find?q=Sense%20and%20Sensibility%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+276|Leaving Las Vegas (1995)|https://www.imdb.com/find?q=Leaving%20Las%20Vegas%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+277|Restoration (1995)|https://www.imdb.com/find?q=Restoration%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+278|Bed of Roses (1996)|https://www.imdb.com/find?q=Bed%20of%20Roses%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+279|Once Upon a Time... When We Were Colored (1995)|https://www.imdb.com/find?q=Once%20Upon%20a%20Time... When%20We%20Were%20Colored%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+280|Up Close and Personal (1996)|https://www.imdb.com/find?q=Up%20Close%20and%20Personal%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+281|River Wild, The (1994)|https://www.imdb.com/find?q=River%20Wild,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+282|Time to Kill, A (1996)|https://www.imdb.com/find?q=Time%20to%20Kill,%20A%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+283|Emma (1996)|https://www.imdb.com/find?q=Emma%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+284|Tin Cup (1996)|https://www.imdb.com/find?q=Tin%20Cup%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+285|Secrets & Lies (1996)|https://www.imdb.com/find?q=Secrets%20&%20Lies%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+286|English Patient, The (1996)|https://www.imdb.com/find?q=English%20Patient,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+287|Marvin's Room (1996)|https://www.imdb.com/find?q=Marvin's%20Room%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+288|Scream (1996)|https://www.imdb.com/find?q=Scream%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+289|Evita (1996)|https://www.imdb.com/find?q=Evita%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+290|Fierce Creatures (1997)|https://www.imdb.com/find?q=Fierce%20Creatures%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+291|Absolute Power (1997)|https://www.imdb.com/find?q=Absolute%20Power%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+292|Rosewood (1997)|https://www.imdb.com/find?q=Rosewood%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+293|Donnie Brasco (1997)|https://www.imdb.com/find?q=Donnie%20Brasco%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+294|Liar Liar (1997)|https://www.imdb.com/find?q=Liar+Liar+(1997)&s=tt&ttype=ft&ref_=fn_ft
+295|Breakdown (1997)|https://www.imdb.com/find?q=Breakdown%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+296|Promesse, La (1996)|https://www.imdb.com/find?q=Promesse%2C%20La%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+297|Ulee's Gold (1997)|https://www.imdb.com/find?q=Ulee%27s+Gold+(1997)&s=tt&ttype=ft&ref_=fn_ft
+298|Face/Off (1997)|https://www.imdb.com/find?q=Face/Off+(1997)&s=tt&ttype=ft&ref_=fn_ft
+299|Hoodlum (1997)|https://www.imdb.com/find?q=Hoodlum+(1997)&s=tt&ttype=ft&ref_=fn_ft
+300|Air Force One (1997)|https://www.imdb.com/find?q=Air+Force+One+(1997)&s=tt&ttype=ft&ref_=fn_ft
+301|In & Out (1997)|https://www.imdb.com/find?q=In+%26+Out+(1997)&s=tt&ttype=ft&ref_=fn_ft
+302|L.A. Confidential (1997)|https://www.imdb.com/find?q=L%2EA%2E+Confidential+(1997)&s=tt&ttype=ft&ref_=fn_ft
+303|Ulee's Gold (1997)|https://www.imdb.com/find?q=Ulee%27s+Gold+(1997)&s=tt&ttype=ft&ref_=fn_ft
+304|Fly Away Home (1996)|https://www.imdb.com/find?q=Fly%20Away%20Home%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+305|Ice Storm, The (1997)|https://www.imdb.com/find?q=Ice+Storm%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+306|Mrs. Brown (Her Majesty, Mrs. Brown) (1997)|https://www.imdb.com/find?q=Her+Majesty%2C+Mrs%2E+Brown+(1997)&s=tt&ttype=ft&ref_=fn_ft
+307|Devil's Advocate, The (1997)|https://www.imdb.com/find?q=Devil's+Advocate,+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+308|FairyTale: A True Story (1997)|https://www.imdb.com/find?q=Fairytale:+A+True+Story+(1997)&s=tt&ttype=ft&ref_=fn_ft
+309|Deceiver (1997)|https://www.imdb.com/find?q=Liar+(1997)&s=tt&ttype=ft&ref_=fn_ft
+310|Rainmaker, The (1997)|https://www.imdb.com/find?q=Rainmaker,+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+311|Wings of the Dove, The (1997)|https://www.imdb.com/find?q=Wings+of+the+Dove%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+312|Midnight in the Garden of Good and Evil (1997)|https://www.imdb.com/find?q=Midnight+in+the+Garden+of+Good+and+Evil+(1997)&s=tt&ttype=ft&ref_=fn_ft
+315|Apt Pupil (1998)|https://www.imdb.com/find?q=Apt+Pupil+(1998)&s=tt&ttype=ft&ref_=fn_ft
+316|As Good As It Gets (1997)|https://www.imdb.com/find?q=As+Good+As+It+Gets+(1997)&s=tt&ttype=ft&ref_=fn_ft
+317|In the Name of the Father (1993)|https://www.imdb.com/find?q=In%20the%20Name%20of%20the%20Father%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+318|Schindler's List (1993)|https://www.imdb.com/find?q=Schindler's%20List%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+319|Everyone Says I Love You (1996)|https://www.imdb.com/find?q=Everyone%20Says%20I%20Love%20You%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+320|Paradise Lost: The Child Murders at Robin Hood Hills (1996)|https://www.imdb.com/find?q=Paradise%20Lost%3a%20The%20Child%20Murders%20at%20Robin%20Hood%20Hills%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+321|Mother (1996)|https://www.imdb.com/find?q=Mother%20(1996/I)&s=tt&ttype=ft&ref_=fn_ft
+322|Murder at 1600 (1997)|https://www.imdb.com/find?q=Murder%20at%201600%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+323|Dante's Peak (1997)|https://www.imdb.com/find?q=Dante's%20Peak%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+324|Lost Highway (1997)|https://www.imdb.com/find?q=Lost+Highway+(1997)&s=tt&ttype=ft&ref_=fn_ft
+325|Crash (1996)|https://www.imdb.com/find?q=Crash%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+326|G.I. Jane (1997)|https://www.imdb.com/find?q=G%2EI%2E+Jane+(1997)&s=tt&ttype=ft&ref_=fn_ft
+327|Cop Land (1997)|https://www.imdb.com/find?q=Cop+Land+(1997)&s=tt&ttype=ft&ref_=fn_ft
+328|Conspiracy Theory (1997)|https://www.imdb.com/find?q=Conspiracy+Theory+(1997)&s=tt&ttype=ft&ref_=fn_ft
+329|Desperate Measures (1998)|https://www.imdb.com/find?q=Desperate+Measures+(1998)&s=tt&ttype=ft&ref_=fn_ft
+330|187 (1997)|https://www.imdb.com/find?q=187+(1997)&s=tt&ttype=ft&ref_=fn_ft
+331|Edge, The (1997)|https://www.imdb.com/find?q=Edge%2C+The+(1997/I)&s=tt&ttype=ft&ref_=fn_ft
+332|Kiss the Girls (1997)|https://www.imdb.com/find?q=Kiss+the+Girls+(1997)&s=tt&ttype=ft&ref_=fn_ft
+333|Game, The (1997)|https://www.imdb.com/find?q=Game%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+334|U Turn (1997)|https://www.imdb.com/find?q=U+Turn+(1997)&s=tt&ttype=ft&ref_=fn_ft
+335|How to Be a Player (1997)|https://www.imdb.com/find?q=How+to+Be+a+Player+(1997)&s=tt&ttype=ft&ref_=fn_ft
+336|Playing God (1997)|https://www.imdb.com/find?q=Playing+God+(1997)&s=tt&ttype=ft&ref_=fn_ft
+337|House of Yes, The (1997)|https://www.imdb.com/find?q=House+of+Yes,+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+338|Bean (1997)|https://www.imdb.com/find?q=Bean+(1997)&s=tt&ttype=ft&ref_=fn_ft
+339|Mad City (1997)|https://www.imdb.com/find?q=Mad+City+(1997)&s=tt&ttype=ft&ref_=fn_ft
+340|Boogie Nights (1997)|https://www.imdb.com/find?q=Boogie+Nights+(1997)&s=tt&ttype=ft&ref_=fn_ft
+341|Critical Care (1997)|https://www.imdb.com/find?q=Critical+Care+(1997)&s=tt&ttype=ft&ref_=fn_ft
+342|Man Who Knew Too Little, The (1997)|https://www.imdb.com/find?q=Man+Who+Knew+Too+Little%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+343|Alien: Resurrection (1997)|https://www.imdb.com/find?q=Alien%3A+Resurrection+(1997)&s=tt&ttype=ft&ref_=fn_ft
+348|Desperate Measures (1998)|https://www.imdb.com/find?q=Desperate+Measures+(1998)&s=tt&ttype=ft&ref_=fn_ft
+350|Fallen (1998)|https://www.imdb.com/find?q=Fallen+(1998)&s=tt&ttype=ft&ref_=fn_ft
+354|Wedding Singer, The (1998)|https://www.imdb.com/find?q=Wedding+Singer%2C+The+(1998)&s=tt&ttype=ft&ref_=fn_ft
+355|Sphere (1998)|https://www.imdb.com/find?q=Sphere+(1998)&s=tt&ttype=ft&ref_=fn_ft
+356|Client, The (1994)|https://www.imdb.com/find?q=Client,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+357|One Flew Over the Cuckoo's Nest (1975)|https://www.imdb.com/find?q=One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975)&s=tt&ttype=ft&ref_=fn_ft
+358|Spawn (1997)|https://www.imdb.com/find?q=Spawn+(1997/I)&s=tt&ttype=ft&ref_=fn_ft
+359|Assignment, The (1997)|https://www.imdb.com/find?q=Assignment%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+360|Wonderland (1997)|https://www.imdb.com/find?q=Wonderland+(1997)&s=tt&ttype=ft&ref_=fn_ft
+361|Incognito (1997)|https://www.imdb.com/find?q=Incognito+(1997)&s=tt&ttype=ft&ref_=fn_ft
+362|Blues Brothers 2000 (1998)|https://www.imdb.com/find?q=Blues+Brothers+2000+(1998)&s=tt&ttype=ft&ref_=fn_ft
+363|Sudden Death (1995)|https://www.imdb.com/find?q=Sudden%20Death%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+364|Ace Ventura: When Nature Calls (1995)|https://www.imdb.com/find?q=Ace%20Ventura:%20When%20Nature%20Calls%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+365|Powder (1995)|https://www.imdb.com/find?q=Powder%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+366|Dangerous Minds (1995)|https://www.imdb.com/find?q=Dangerous%20Minds%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+367|Clueless (1995)|https://www.imdb.com/find?q=Clueless%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+368|Bio-Dome (1996)|https://www.imdb.com/find?q=Bio-Dome%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+369|Black Sheep (1996)|https://www.imdb.com/find?q=Black%20Sheep%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+370|Mary Reilly (1996)|https://www.imdb.com/find?q=Mary%20Reilly%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+371|Bridges of Madison County, The (1995)|https://www.imdb.com/find?q=Bridges%20of%20Madison%20County,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+372|Jeffrey (1995)|https://www.imdb.com/find?q=Jeffrey%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+373|Judge Dredd (1995)|https://www.imdb.com/find?q=Judge%20Dredd%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+374|Mighty Morphin Power Rangers: The Movie (1995)|https://www.imdb.com/find?q=Mighty%20Morphin%20Power%20Rangers:%20The%20Movie%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+375|Showgirls (1995)|https://www.imdb.com/find?q=Showgirls%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+376|Houseguest (1994)|https://www.imdb.com/find?q=Houseguest%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+377|Heavyweights (1994)|https://www.imdb.com/find?q=Heavyweights%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+378|Miracle on 34th Street (1994)|https://www.imdb.com/find?q=Miracle%20on%2034th%20Street%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+379|Tales From the Crypt Presents: Demon Knight (1995)|https://www.imdb.com/find?q=Tales%20From%20the%20Crypt%20Presents:%20Demon%20Knight%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+380|Star Trek: Generations (1994)|https://www.imdb.com/find?q=Star%20Trek:%20Generations%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+381|Muriel's Wedding (1994)|https://www.imdb.com/find?q=Muriel's%20Wedding%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+382|Adventures of Priscilla, Queen of the Desert, The (1994)|https://www.imdb.com/find?q=Adventures%20of%20Priscilla,%20Queen%20of%20the%20Desert,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+383|Flintstones, The (1994)|https://www.imdb.com/find?q=Flintstones,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+384|Naked Gun 33 1/3: The Final Insult (1994)|https://www.imdb.com/find?q=Naked%20Gun%2033%201/3:%20The%20Final%20Insult%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+385|True Lies (1994)|https://www.imdb.com/find?q=True%20Lies%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+386|Addams Family Values (1993)|https://www.imdb.com/find?q=Addams%20Family%20Values%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+387|Age of Innocence, The (1993)|https://www.imdb.com/find?q=Age%20of%20Innocence,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+388|Beverly Hills Cop III (1994)|https://www.imdb.com/find?q=Beverly%20Hills%20Cop%20III%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+389|Black Beauty (1994)|https://www.imdb.com/find?q=Black+Beauty+(1994/I)&s=tt&ttype=ft&ref_=fn_ft
+390|Fear of a Black Hat (1993)|https://www.imdb.com/find?q=Fear%20of%20a%20Black%20Hat%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+391|Last Action Hero (1993)|https://www.imdb.com/find?q=Last%20Action%20Hero%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+392|Man Without a Face, The (1993)|https://www.imdb.com/find?q=Man%20Without%20a%20Face,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+393|Mrs. Doubtfire (1993)|https://www.imdb.com/find?q=Mrs.%20Doubtfire%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+394|Radioland Murders (1994)|https://www.imdb.com/find?q=Radioland%20Murders%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+395|Robin Hood: Men in Tights (1993)|https://www.imdb.com/find?q=Robin%20Hood:%20Men%20in%20Tights%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+396|Serial Mom (1994)|https://www.imdb.com/find?q=Serial%20Mom%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+397|Striking Distance (1993)|https://www.imdb.com/find?q=Striking%20Distance%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+398|Super Mario Bros. (1993)|https://www.imdb.com/find?q=Super%20Mario%20Bros.%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+399|Three Musketeers, The (1993)|https://www.imdb.com/find?q=Three%20Musketeers,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+400|Little Rascals, The (1994)|https://www.imdb.com/find?q=Little%20Rascals,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+401|Brady Bunch Movie, The (1995)|https://www.imdb.com/find?q=Brady%20Bunch%20Movie,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+402|Ghost (1990)|https://www.imdb.com/find?q=Ghost%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+403|Batman (1989)|https://www.imdb.com/find?q=Batman%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+404|Pinocchio (1940)|https://www.imdb.com/find?q=Pinocchio%20(1940)&s=tt&ttype=ft&ref_=fn_ft
+405|Mission: Impossible (1996)|https://www.imdb.com/find?q=Mission:%20Impossible%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+406|Thinner (1996)|https://www.imdb.com/find?q=Thinner%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+407|Spy Hard (1996)|https://www.imdb.com/find?q=Spy%20Hard%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+408|Close Shave, A (1995)|https://www.imdb.com/find?q=Close%20Shave,%20A%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+409|Jack (1996)|https://www.imdb.com/find?q=Jack%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+410|Kingpin (1996)|https://www.imdb.com/find?q=Kingpin%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+411|Nutty Professor, The (1996)|https://www.imdb.com/find?q=Nutty%20Professor,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+412|Very Brady Sequel, A (1996)|https://www.imdb.com/find?q=Very%20Brady%20Sequel,%20A%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+413|Tales from the Crypt Presents: Bordello of Blood (1996)|https://www.imdb.com/find?q=Tales%20from%20the%20Crypt%20Presents:%20Bordello%20of%20Blood%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+414|My Favorite Year (1982)|https://www.imdb.com/find?q=My%20Favorite%20Year%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+415|Apple Dumpling Gang, The (1975)|https://www.imdb.com/find?q=Apple%20Dumpling%20Gang,%20The%20(1975)&s=tt&ttype=ft&ref_=fn_ft
+416|Old Yeller (1957)|https://www.imdb.com/find?q=Old%20Yeller%20(1957)&s=tt&ttype=ft&ref_=fn_ft
+417|Parent Trap, The (1961)|https://www.imdb.com/find?q=Parent%20Trap,%20The%20(1961)&s=tt&ttype=ft&ref_=fn_ft
+418|Cinderella (1950)|https://www.imdb.com/find?q=Cinderella%20(1950)&s=tt&ttype=ft&ref_=fn_ft
+419|Mary Poppins (1964)|https://www.imdb.com/find?q=Mary%20Poppins%20(1964)&s=tt&ttype=ft&ref_=fn_ft
+420|Alice in Wonderland (1951)|https://www.imdb.com/find?q=Alice%20in%20Wonderland%20(1951)&s=tt&ttype=ft&ref_=fn_ft
+421|William Shakespeare's Romeo and Juliet (1996)|https://www.imdb.com/find?q=Romeo+%2B+Juliet+(1996)&s=tt&ttype=ft&ref_=fn_ft
+422|Aladdin and the King of Thieves (1996)|https://www.imdb.com/find?q=Aladdin%20and%20the%20King%20of%20Thieves%20(1996)%20(V)&s=tt&ttype=ft&ref_=fn_ft
+423|E.T. the Extra-Terrestrial (1982)|https://www.imdb.com/find?q=E%2ET%2E%20the%20Extra-Terrestrial%20%281982%29&s=tt&ttype=ft&ref_=fn_ft
+424|Children of the Corn: The Gathering (1996)|https://www.imdb.com/find?q=Children%20of%20the%20Corn%3A%20The%20Gathering%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+425|Bob Roberts (1992)|https://www.imdb.com/find?q=Bob%20Roberts%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+426|Transformers: The Movie, The (1986)|https://www.imdb.com/find?q=Transformers:%20The%20Movie,%20The%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+427|To Kill a Mockingbird (1962)|https://www.imdb.com/find?q=To%20Kill%20a%20Mockingbird%20(1962)&s=tt&ttype=ft&ref_=fn_ft
+428|Harold and Maude (1971)|https://www.imdb.com/find?q=Harold%20and%20Maude%20(1971)&s=tt&ttype=ft&ref_=fn_ft
+429|Day the Earth Stood Still, The (1951)|https://www.imdb.com/find?q=Day%20the%20Earth%20Stood%20Still,%20The%20(1951)&s=tt&ttype=ft&ref_=fn_ft
+430|Duck Soup (1933)|https://www.imdb.com/find?q=Duck%20Soup%20(1933)&s=tt&ttype=ft&ref_=fn_ft
+431|Highlander (1986)|https://www.imdb.com/find?q=Highlander%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+432|Fantasia (1940)|https://www.imdb.com/find?q=Fantasia%20(1940)&s=tt&ttype=ft&ref_=fn_ft
+433|Heathers (1989)|https://www.imdb.com/find?q=Heathers%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+434|Forbidden Planet (1956)|https://www.imdb.com/find?q=Forbidden%20Planet%20(1956)&s=tt&ttype=ft&ref_=fn_ft
+435|Butch Cassidy and the Sundance Kid (1969)|https://www.imdb.com/find?q=Butch%20Cassidy%20and%20the%20Sundance%20Kid%20(1969)&s=tt&ttype=ft&ref_=fn_ft
+436|American Werewolf in London, An (1981)|https://www.imdb.com/find?q=American%20Werewolf%20in%20London,%20An%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+437|Amityville 1992: It's About Time (1992)|https://www.imdb.com/find?q=Amityville%201992:%20It's%20About%20Time%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+438|Amityville 3-D (1983)|https://www.imdb.com/find?q=Amityville%203-D%20(1983)&s=tt&ttype=ft&ref_=fn_ft
+439|Amityville: A New Generation (1993)|https://www.imdb.com/find?q=Amityville:%20A%20New%20Generation%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+440|Amityville II: The Possession (1982)|https://www.imdb.com/find?q=Amityville%20II:%20The%20Possession%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+441|Amityville Horror, The (1979)|https://www.imdb.com/find?q=Amityville%20Horror,%20The%20(1979)&s=tt&ttype=ft&ref_=fn_ft
+442|Amityville Curse, The (1990)|https://www.imdb.com/find?q=Amityville%20Curse,%20The%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+443|Birds, The (1963)|https://www.imdb.com/find?q=Birds,%20The%20(1963)&s=tt&ttype=ft&ref_=fn_ft
+444|Blob, The (1958)|https://www.imdb.com/find?q=Blob,%20The%20(1958)&s=tt&ttype=ft&ref_=fn_ft
+445|Body Snatcher, The (1945)|https://www.imdb.com/find?q=Body%20Snatcher,%20The%20(1945)&s=tt&ttype=ft&ref_=fn_ft
+446|Burnt Offerings (1976)|https://www.imdb.com/find?q=Burnt%20Offerings%20(1976)&s=tt&ttype=ft&ref_=fn_ft
+447|Carrie (1976)|https://www.imdb.com/find?q=Carrie%20(1976)&s=tt&ttype=ft&ref_=fn_ft
+448|Omen, The (1976)|https://www.imdb.com/find?q=Omen,%20The%20(1976)&s=tt&ttype=ft&ref_=fn_ft
+449|Star Trek: The Motion Picture (1979)|https://www.imdb.com/find?q=Star%20Trek:%20The%20Motion%20Picture%20(1979)&s=tt&ttype=ft&ref_=fn_ft
+450|Star Trek V: The Final Frontier (1989)|https://www.imdb.com/find?q=Star%20Trek%20V:%20The%20Final%20Frontier%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+451|Grease (1978)|https://www.imdb.com/find?q=Grease%20(1978)&s=tt&ttype=ft&ref_=fn_ft
+452|Jaws 2 (1978)|https://www.imdb.com/find?q=Jaws%202%20(1978)&s=tt&ttype=ft&ref_=fn_ft
+453|Jaws 3-D (1983)|https://www.imdb.com/find?q=Jaws%203-D%20(1983)&s=tt&ttype=ft&ref_=fn_ft
+454|Bastard Out of Carolina (1996)|https://www.imdb.com/find?q=Bastard%20Out%20of%20Carolina%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+455|Jackie Chan's First Strike (1996)|https://www.imdb.com/find?q=Police%20Story%204:%20First%20Strike%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+456|Beverly Hills Ninja (1997)|https://www.imdb.com/find?q=Beverly%20Hills%20Ninja%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+457|Free Willy 3: The Rescue (1997)|https://www.imdb.com/find?q=Free+Willy+3%3A+The+Rescue+(1997)&s=tt&ttype=ft&ref_=fn_ft
+458|Nixon (1995)|https://www.imdb.com/find?q=Nixon%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+459|Cry, the Beloved Country (1995)|https://www.imdb.com/find?q=Cry,%20the%20Beloved%20Country%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+460|Crossing Guard, The (1995)|https://www.imdb.com/find?q=Crossing%20Guard,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+461|Smoke (1995)|https://www.imdb.com/find?q=Smoke%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+462|Like Water For Chocolate (Como agua para chocolate) (1992)|https://www.imdb.com/find?q=Como%20agua%20para%20chocolate%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+463|Secret of Roan Inish, The (1994)|https://www.imdb.com/find?q=Secret%20of%20Roan%20Inish,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+464|Vanya on 42nd Street (1994)|https://www.imdb.com/find?q=Vanya%20on%2042nd%20Street%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+465|Jungle Book, The (1994)|https://www.imdb.com/find?q=Jungle%20Book,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+466|Red Rock West (1992)|https://www.imdb.com/find?q=Red%20Rock%20West%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+467|Bronx Tale, A (1993)|https://www.imdb.com/find?q=Bronx%20Tale,%20A%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+468|Rudy (1993)|https://www.imdb.com/find?q=Rudy%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+469|Short Cuts (1993)|https://www.imdb.com/find?q=Short%20Cuts%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+470|Tombstone (1993)|https://www.imdb.com/find?q=Tombstone%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+471|Courage Under Fire (1996)|https://www.imdb.com/find?q=Courage%20Under%20Fire%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+472|Dragonheart (1996)|https://www.imdb.com/find?q=Dragonheart%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+473|James and the Giant Peach (1996)|https://www.imdb.com/find?q=James%20and%20the%20Giant%20Peach%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+474|Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)|https://www.imdb.com/find?q=Dr.%20Strangelove%20or:%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb%20(1963)&s=tt&ttype=ft&ref_=fn_ft
+475|Trainspotting (1996)|https://www.imdb.com/find?q=Trainspotting+(1996)&s=tt&ttype=ft&ref_=fn_ft
+476|First Wives Club, The (1996)|https://www.imdb.com/find?q=First%20Wives%20Club,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+477|Matilda (1996)|https://www.imdb.com/find?q=Matilda%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+478|Philadelphia Story, The (1940)|https://www.imdb.com/find?q=Philadelphia%20Story,%20The%20(1940)&s=tt&ttype=ft&ref_=fn_ft
+479|Vertigo (1958)|https://www.imdb.com/find?q=Vertigo%20(1958)&s=tt&ttype=ft&ref_=fn_ft
+480|North by Northwest (1959)|https://www.imdb.com/find?q=North%20by%20Northwest%20(1959)&s=tt&ttype=ft&ref_=fn_ft
+481|Apartment, The (1960)|https://www.imdb.com/find?q=Apartment,%20The%20(1960)&s=tt&ttype=ft&ref_=fn_ft
+482|Some Like It Hot (1959)|https://www.imdb.com/find?q=Some%20Like%20It%20Hot%20(1959)&s=tt&ttype=ft&ref_=fn_ft
+483|Casablanca (1942)|https://www.imdb.com/find?q=Casablanca%20(1942)&s=tt&ttype=ft&ref_=fn_ft
+484|Maltese Falcon, The (1941)|https://www.imdb.com/find?q=Maltese%20Falcon,%20The%20(1941)&s=tt&ttype=ft&ref_=fn_ft
+485|My Fair Lady (1964)|https://www.imdb.com/find?q=My%20Fair%20Lady%20(1964)&s=tt&ttype=ft&ref_=fn_ft
+486|Sabrina (1954)|https://www.imdb.com/find?q=Sabrina%20(1954)&s=tt&ttype=ft&ref_=fn_ft
+487|Roman Holiday (1953)|https://www.imdb.com/find?q=Roman%20Holiday%20(1953)&s=tt&ttype=ft&ref_=fn_ft
+488|Sunset Blvd. (1950)|https://www.imdb.com/find?q=Sunset%20Boulevard%20(1950)&s=tt&ttype=ft&ref_=fn_ft
+489|Notorious (1946)|https://www.imdb.com/find?q=Notorious%20(1946)&s=tt&ttype=ft&ref_=fn_ft
+490|To Catch a Thief (1955)|https://www.imdb.com/find?q=To%20Catch%20a%20Thief%20(1955)&s=tt&ttype=ft&ref_=fn_ft
+491|Adventures of Robin Hood, The (1938)|https://www.imdb.com/find?q=Adventures%20of%20Robin%20Hood,%20The%20(1938)&s=tt&ttype=ft&ref_=fn_ft
+492|East of Eden (1955)|https://www.imdb.com/find?q=East%20of%20Eden%20(1955)&s=tt&ttype=ft&ref_=fn_ft
+493|Thin Man, The (1934)|https://www.imdb.com/find?q=Thin%20Man,%20The%20(1934)&s=tt&ttype=ft&ref_=fn_ft
+494|His Girl Friday (1940)|https://www.imdb.com/find?q=His%20Girl%20Friday%20(1940)&s=tt&ttype=ft&ref_=fn_ft
+495|Around the World in 80 Days (1956)|https://www.imdb.com/find?q=Around%20the%20World%20in%2080%20Days%20(1956)&s=tt&ttype=ft&ref_=fn_ft
+496|It's a Wonderful Life (1946)|https://www.imdb.com/find?q=It's%20a%20Wonderful%20Life%20(1946)&s=tt&ttype=ft&ref_=fn_ft
+497|Bringing Up Baby (1938)|https://www.imdb.com/find?q=Bringing%20Up%20Baby%20(1938)&s=tt&ttype=ft&ref_=fn_ft
+498|African Queen, The (1951)|https://www.imdb.com/find?q=African%20Queen,%20The%20(1951)&s=tt&ttype=ft&ref_=fn_ft
+499|Cat on a Hot Tin Roof (1958)|https://www.imdb.com/find?q=Cat%20on%20a%20Hot%20Tin%20Roof%20(1958)&s=tt&ttype=ft&ref_=fn_ft
+500|Fly Away Home (1996)|https://www.imdb.com/find?q=Fly%20Away%20Home%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+501|Dumbo (1941)|https://www.imdb.com/find?q=Dumbo%20(1941)&s=tt&ttype=ft&ref_=fn_ft
+502|Bananas (1971)|https://www.imdb.com/find?q=Bananas%20(1971)&s=tt&ttype=ft&ref_=fn_ft
+503|Candidate, The (1972)|https://www.imdb.com/find?q=Candidate,%20The%20(1972)&s=tt&ttype=ft&ref_=fn_ft
+504|Bonnie and Clyde (1967)|https://www.imdb.com/find?q=Bonnie%20and%20Clyde%20(1967)&s=tt&ttype=ft&ref_=fn_ft
+505|Dial M for Murder (1954)|https://www.imdb.com/find?q=Dial%20M%20for%20Murder%20(1954)&s=tt&ttype=ft&ref_=fn_ft
+506|Rebel Without a Cause (1955)|https://www.imdb.com/find?q=Rebel%20Without%20a%20Cause%20(1955)&s=tt&ttype=ft&ref_=fn_ft
+507|Streetcar Named Desire, A (1951)|https://www.imdb.com/find?q=Streetcar%20Named%20Desire,%20A%20(1951)&s=tt&ttype=ft&ref_=fn_ft
+508|People vs. Larry Flynt, The (1996)|https://www.imdb.com/find?q=People%20vs.%20Larry%20Flynt,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+509|My Left Foot (1989)|https://www.imdb.com/find?q=My%20Left%20Foot%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+510|Magnificent Seven, The (1954)|https://www.imdb.com/find?q=Shichinin%20no%20samurai%20(1954)&s=tt&ttype=ft&ref_=fn_ft
+511|Lawrence of Arabia (1962)|https://www.imdb.com/find?q=Lawrence%20of%20Arabia%20(1962)&s=tt&ttype=ft&ref_=fn_ft
+512|Wings of Desire (1987)|https://www.imdb.com/find?q=Himmel+%FCber+Berlin,+Der+(1987)&s=tt&ttype=ft&ref_=fn_ft
+513|Third Man, The (1949)|https://www.imdb.com/find?q=Third%20Man,%20The%20(1949)&s=tt&ttype=ft&ref_=fn_ft
+514|Annie Hall (1977)|https://www.imdb.com/find?q=Annie%20Hall%20(1977)&s=tt&ttype=ft&ref_=fn_ft
+515|Boot, Das (1981)|https://www.imdb.com/find?q=Boot,%20Das%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+516|Local Hero (1983)|https://www.imdb.com/find?q=Local%20Hero%20(1983)&s=tt&ttype=ft&ref_=fn_ft
+517|Manhattan (1979)|https://www.imdb.com/find?q=Manhattan%20(1979)&s=tt&ttype=ft&ref_=fn_ft
+518|Miller's Crossing (1990)|https://www.imdb.com/find?q=Miller's%20Crossing%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+519|Treasure of the Sierra Madre, The (1948)|https://www.imdb.com/find?q=Treasure%20of%20the%20Sierra%20Madre,%20The%20(1948)&s=tt&ttype=ft&ref_=fn_ft
+520|Great Escape, The (1963)|https://www.imdb.com/find?q=Great%20Escape,%20The%20(1963)&s=tt&ttype=ft&ref_=fn_ft
+521|Deer Hunter, The (1978)|https://www.imdb.com/find?q=Deer%20Hunter,%20The%20(1978)&s=tt&ttype=ft&ref_=fn_ft
+522|Down by Law (1986)|https://www.imdb.com/find?q=Down%20by%20Law%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+523|Cool Hand Luke (1967)|https://www.imdb.com/find?q=Cool%20Hand%20Luke%20(1967)&s=tt&ttype=ft&ref_=fn_ft
+524|Great Dictator, The (1940)|https://www.imdb.com/find?q=Great%20Dictator,%20The%20(1940)&s=tt&ttype=ft&ref_=fn_ft
+525|Big Sleep, The (1946)|https://www.imdb.com/find?q=Big%20Sleep,%20The%20(1946)&s=tt&ttype=ft&ref_=fn_ft
+526|Ben-Hur (1959)|https://www.imdb.com/find?q=Ben-Hur%20(1959)&s=tt&ttype=ft&ref_=fn_ft
+527|Gandhi (1982)|https://www.imdb.com/find?q=Gandhi%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+528|Killing Fields, The (1984)|https://www.imdb.com/find?q=Killing%20Fields,%20The%20(1984)&s=tt&ttype=ft&ref_=fn_ft
+529|My Life as a Dog (Mitt liv som hund) (1985)|https://www.imdb.com/find?q=Mitt%20liv%20som%20hund%20(1985)&s=tt&ttype=ft&ref_=fn_ft
+530|Man Who Would Be King, The (1975)|https://www.imdb.com/find?q=Man%20Who%20Would%20Be%20King,%20The%20(1975)&s=tt&ttype=ft&ref_=fn_ft
+531|Shine (1996)|https://www.imdb.com/find?q=Shine%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+532|Kama Sutra: A Tale of Love (1996)|https://www.imdb.com/find?q=Kama%20Sutra%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+533|Daytrippers, The (1996)|https://www.imdb.com/find?q=Daytrippers%2C%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+534|Traveller (1997)|https://www.imdb.com/find?q=Traveller%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+535|Addicted to Love (1997)|https://www.imdb.com/find?q=Addicted%20to%20Love%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+536|Ponette (1996)|https://www.imdb.com/find?q=Ponette%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+537|My Own Private Idaho (1991)|https://www.imdb.com/find?q=My+Own+Private+Idaho+(1991)&s=tt&ttype=ft&ref_=fn_ft
+538|Anastasia (1997)|https://www.imdb.com/find?q=Anastasia+(1997)&s=tt&ttype=ft&ref_=fn_ft
+540|Money Train (1995)|https://www.imdb.com/find?q=Money%20Train%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+541|Mortal Kombat (1995)|https://www.imdb.com/find?q=Mortal%20Kombat%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+542|Pocahontas (1995)|https://www.imdb.com/find?q=Pocahontas%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+543|Misérables, Les (1995)|https://www.imdb.com/find?q=Mis%E9rables%2C%20Les%20%281995%29&s=tt&ttype=ft&ref_=fn_ft
+544|Things to Do in Denver when You're Dead (1995)|https://www.imdb.com/find?q=Things%20to%20Do%20in%20Denver%20when%20You're%20Dead%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+545|Vampire in Brooklyn (1995)|https://www.imdb.com/find?q=Vampire%20in%20Brooklyn%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+546|Broken Arrow (1996)|https://www.imdb.com/find?q=Broken%20Arrow%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+547|Young Poisoner's Handbook, The (1995)|https://www.imdb.com/find?q=Young%20Poisoner's%20Handbook,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+548|NeverEnding Story III, The (1994)|https://www.imdb.com/find?q=NeverEnding%20Story%20III,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+549|Rob Roy (1995)|https://www.imdb.com/find?q=Rob%20Roy%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+550|Die Hard: With a Vengeance (1995)|https://www.imdb.com/find?q=Die%20Hard:%20With%20a%20Vengeance%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+551|Lord of Illusions (1995)|https://www.imdb.com/find?q=Lord%20of%20Illusions%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+552|Species (1995)|https://www.imdb.com/find?q=Species%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+553|Walk in the Clouds, A (1995)|https://www.imdb.com/find?q=Walk%20in%20the%20Clouds,%20A%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+554|Waterworld (1995)|https://www.imdb.com/find?q=Waterworld%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+555|White Man's Burden (1995)|https://www.imdb.com/find?q=White%20Man's%20Burden%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+556|Wild Bill (1995)|https://www.imdb.com/find?q=Wild%20Bill%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+557|Farinelli: il castrato (1994)|https://www.imdb.com/find?q=Farinelli:%20il%20castrato%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+558|Heavenly Creatures (1994)|https://www.imdb.com/find?q=Heavenly%20Creatures%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+559|Interview with the Vampire (1994)|https://www.imdb.com/find?q=Interview%20with%20the%20Vampire%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+560|Kid in King Arthur's Court, A (1995)|https://www.imdb.com/find?q=Kid%20in%20King%20Arthur's%20Court,%20A%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+561|Mary Shelley's Frankenstein (1994)|https://www.imdb.com/find?q=Mary%20Shelley's%20Frankenstein%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+562|Quick and the Dead, The (1995)|https://www.imdb.com/find?q=Quick%20and%20the%20Dead,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+563|Stephen King's The Langoliers (1995)|https://www.imdb.com/find?q=%22Langoliers,%20The%22%20(1995)%20(mini)&s=tt&ttype=ft&ref_=fn_ft
+564|Tales from the Hood (1995)|https://www.imdb.com/find?q=Tales%20from%20the%20Hood%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+565|Village of the Damned (1995)|https://www.imdb.com/find?q=Village%20of%20the%20Damned%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+566|Clear and Present Danger (1994)|https://www.imdb.com/find?q=Clear%20and%20Present%20Danger%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+567|Wes Craven's New Nightmare (1994)|https://www.imdb.com/find?q=Wes%20Craven's%20New%20Nightmare%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+568|Speed (1994)|https://www.imdb.com/find?q=Speed%20(1994/I)&s=tt&ttype=ft&ref_=fn_ft
+569|Wolf (1994)|https://www.imdb.com/find?q=Wolf%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+570|Wyatt Earp (1994)|https://www.imdb.com/find?q=Wyatt%20Earp%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+571|Another Stakeout (1993)|https://www.imdb.com/find?q=Another%20Stakeout%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+572|Blown Away (1994)|https://www.imdb.com/find?q=Blown%20Away%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+573|Body Snatchers (1993)|https://www.imdb.com/find?q=Body%20Snatchers%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+574|Boxing Helena (1993)|https://www.imdb.com/find?q=Boxing%20Helena%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+575|City Slickers II: The Legend of Curly's Gold (1994)|https://www.imdb.com/find?q=City%20Slickers%20II:%20The%20Legend%20of%20Curly's%20Gold%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+576|Cliffhanger (1993)|https://www.imdb.com/find?q=Cliffhanger%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+577|Coneheads (1993)|https://www.imdb.com/find?q=Coneheads%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+578|Demolition Man (1993)|https://www.imdb.com/find?q=Demolition%20Man%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+579|Fatal Instinct (1993)|https://www.imdb.com/find?q=Fatal%20Instinct%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+580|Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)|https://www.imdb.com/find?q=Englishman%20Who%20Went%20Up%20a%20Hill,%20But%20Came%20Down%20a%20Mountain,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+581|Kalifornia (1993)|https://www.imdb.com/find?q=Kalifornia%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+582|Piano, The (1993)|https://www.imdb.com/find?q=Piano,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+583|Romeo Is Bleeding (1993)|https://www.imdb.com/find?q=Romeo%20Is%20Bleeding%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+584|Secret Garden, The (1993)|https://www.imdb.com/find?q=Secret%20Garden,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+585|Son in Law (1993)|https://www.imdb.com/find?q=Son%20in%20Law%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+586|Terminal Velocity (1994)|https://www.imdb.com/find?q=Terminal%20Velocity%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+587|Hour of the Pig, The (1993)|https://www.imdb.com/find?q=Hour%20of%20the%20Pig,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+588|Beauty and the Beast (1991)|https://www.imdb.com/find?q=Beauty%20and%20the%20Beast%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+589|Wild Bunch, The (1969)|https://www.imdb.com/find?q=Wild%20Bunch,%20The%20(1969)&s=tt&ttype=ft&ref_=fn_ft
+590|Hellraiser: Bloodline (1996)|https://www.imdb.com/find?q=Hellraiser:%20Bloodline%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+591|Primal Fear (1996)|https://www.imdb.com/find?q=Primal%20Fear%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+592|True Crime (1995)|https://www.imdb.com/find?q=True%20Crime%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+593|Stalingrad (1993)|https://www.imdb.com/find?q=Stalingrad%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+594|Heavy (1995)|https://www.imdb.com/find?q=Heavy%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+595|Fan, The (1996)|https://www.imdb.com/find?q=Fan,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+596|Hunchback of Notre Dame, The (1996)|https://www.imdb.com/find?q=Hunchback%20of%20Notre%20Dame,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+597|Eraser (1996)|https://www.imdb.com/find?q=Eraser%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+598|Big Squeeze, The (1996)|https://www.imdb.com/find?q=Big%20Squeeze,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+599|Police Story 4: Project S (Chao ji ji hua) (1993)|https://www.imdb.com/find?q=Project%20S%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+600|Daniel Defoe's Robinson Crusoe (1996)|https://www.imdb.com/find?q=Robinson%20Crusoe%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+601|For Whom the Bell Tolls (1943)|https://www.imdb.com/find?q=For%20Whom%20the%20Bell%20Tolls%20(1943)&s=tt&ttype=ft&ref_=fn_ft
+602|American in Paris, An (1951)|https://www.imdb.com/find?q=American%20in%20Paris,%20An%20(1951)&s=tt&ttype=ft&ref_=fn_ft
+603|Rear Window (1954)|https://www.imdb.com/find?q=Rear%20Window%20(1954)&s=tt&ttype=ft&ref_=fn_ft
+604|It Happened One Night (1934)|https://www.imdb.com/find?q=It%20Happened%20One%20Night%20(1934)&s=tt&ttype=ft&ref_=fn_ft
+605|Meet Me in St. Louis (1944)|https://www.imdb.com/find?q=Meet%20Me%20in%20St.%20Louis%20(1944)&s=tt&ttype=ft&ref_=fn_ft
+606|All About Eve (1950)|https://www.imdb.com/find?q=All%20About%20Eve%20(1950)&s=tt&ttype=ft&ref_=fn_ft
+607|Rebecca (1940)|https://www.imdb.com/find?q=Rebecca%20(1940)&s=tt&ttype=ft&ref_=fn_ft
+608|Spellbound (1945)|https://www.imdb.com/find?q=Spellbound%20(1945)&s=tt&ttype=ft&ref_=fn_ft
+609|Father of the Bride (1950)|https://www.imdb.com/find?q=Father%20of%20the%20Bride%20(1950)&s=tt&ttype=ft&ref_=fn_ft
+610|Gigi (1958)|https://www.imdb.com/find?q=Gigi%20(1958)&s=tt&ttype=ft&ref_=fn_ft
+611|Laura (1944)|https://www.imdb.com/find?q=Laura%20(1944)&s=tt&ttype=ft&ref_=fn_ft
+612|Lost Horizon (1937)|https://www.imdb.com/find?q=Lost%20Horizon%20(1937)&s=tt&ttype=ft&ref_=fn_ft
+613|My Man Godfrey (1936)|https://www.imdb.com/find?q=My%20Man%20Godfrey%20(1936)&s=tt&ttype=ft&ref_=fn_ft
+614|Giant (1956)|https://www.imdb.com/find?q=Giant%20(1956)&s=tt&ttype=ft&ref_=fn_ft
+615|39 Steps, The (1935)|https://www.imdb.com/find?q=39%20Steps,%20The%20(1935)&s=tt&ttype=ft&ref_=fn_ft
+616|Night of the Living Dead (1968)|https://www.imdb.com/find?q=Night%20of%20the%20Living%20Dead%20(1968)&s=tt&ttype=ft&ref_=fn_ft
+617|Blue Angel, The (Blaue Engel, Der) (1930)|https://www.imdb.com/find?q=Blaue%20Engel,%20Der%20(1930)&s=tt&ttype=ft&ref_=fn_ft
+618|Picnic (1955)|https://www.imdb.com/find?q=Picnic%20(1955)&s=tt&ttype=ft&ref_=fn_ft
+619|Extreme Measures (1996)|https://www.imdb.com/find?q=Extreme%20Measures%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+620|Chamber, The (1996)|https://www.imdb.com/find?q=Chamber,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+621|Davy Crockett, King of the Wild Frontier (1955)|https://www.imdb.com/find?q=Davy%20Crockett%2C%20King%20of%20the%20Wild%20Frontier%20%281955%29&s=tt&ttype=ft&ref_=fn_ft
+622|Swiss Family Robinson (1960)|https://www.imdb.com/find?q=Swiss%20Family%20Robinson%20(1960)&s=tt&ttype=ft&ref_=fn_ft
+623|Angels in the Outfield (1994)|https://www.imdb.com/find?q=Angels%20in%20the%20Outfield%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+624|Three Caballeros, The (1945)|https://www.imdb.com/find?q=Three%20Caballeros,%20The%20(1945)&s=tt&ttype=ft&ref_=fn_ft
+625|Sword in the Stone, The (1963)|https://www.imdb.com/find?q=Sword%20in%20the%20Stone,%20The%20(1963)&s=tt&ttype=ft&ref_=fn_ft
+626|So Dear to My Heart (1949)|https://www.imdb.com/find?q=So+Dear+to+My+Heart+(1949)&s=tt&ttype=ft&ref_=fn_ft
+627|Robin Hood: Prince of Thieves (1991)|https://www.imdb.com/find?q=Robin+Hood%3A+Prince+of+Thieves+(1991)&s=tt&ttype=ft&ref_=fn_ft
+628|Sleepers (1996)|https://www.imdb.com/find?q=Sleepers%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+629|Victor/Victoria (1982)|https://www.imdb.com/find?q=Victor/Victoria%20%281982%29&s=tt&ttype=ft&ref_=fn_ft
+630|Great Race, The (1965)|https://www.imdb.com/find?q=Great%20Race,%20The%20(1965)&s=tt&ttype=ft&ref_=fn_ft
+631|Crying Game, The (1992)|https://www.imdb.com/find?q=Crying%20Game,%20The%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+632|Sophie's Choice (1982)|https://www.imdb.com/find?q=Sophie's%20Choice%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+633|Christmas Carol, A (1938)|https://www.imdb.com/find?q=Christmas%20Carol,%20A%20(1938)&s=tt&ttype=ft&ref_=fn_ft
+634|Microcosmos: Le peuple de l'herbe (1996)|https://www.imdb.com/find?q=Microcosmos%3A%20Le%20peuple%20de%20l%27herbe%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+635|Fog, The (1980)|https://www.imdb.com/find?q=Fog,%20The%20(1980)&s=tt&ttype=ft&ref_=fn_ft
+636|Escape from New York (1981)|https://www.imdb.com/find?q=Escape%20from%20New%20York%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+637|Howling, The (1981)|https://www.imdb.com/find?q=Howling,%20The%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+638|Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)|https://www.imdb.com/find?q=Retour%20de%20Martin%20Guerre,%20Le%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+639|Tin Drum, The (Blechtrommel, Die) (1979)|https://www.imdb.com/find?q=Blechtrommel,%20Die%20(1979)&s=tt&ttype=ft&ref_=fn_ft
+640|Cook the Thief His Wife & Her Lover, The (1989)|https://www.imdb.com/find?q=Cook%20the%20Thief%20His%20Wife%20&%20Her%20Lover,%20The%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+641|Paths of Glory (1957)|https://www.imdb.com/find?q=Paths%20of%20Glory%20(1957)&s=tt&ttype=ft&ref_=fn_ft
+642|Grifters, The (1990)|https://www.imdb.com/find?q=Grifters,%20The%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+643|The Innocent (1994)|https://www.imdb.com/find?q=Innocent,%20The%20(1994)%20(TV)&s=tt&ttype=ft&ref_=fn_ft
+644|Thin Blue Line, The (1988)|https://www.imdb.com/find?q=Thin%20Blue%20Line,%20The%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+645|Paris Is Burning (1990)|https://www.imdb.com/find?q=Paris%20Is%20Burning%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+646|Once Upon a Time in the West (1969)|https://www.imdb.com/find?q=C'era%20una%20volta%20il%20west%20(1969)&s=tt&ttype=ft&ref_=fn_ft
+647|Ran (1985)|https://www.imdb.com/find?q=Ran%20(1985)&s=tt&ttype=ft&ref_=fn_ft
+648|Quiet Man, The (1952)|https://www.imdb.com/find?q=Quiet%20Man,%20The%20(1952)&s=tt&ttype=ft&ref_=fn_ft
+649|Once Upon a Time in America (1984)|https://www.imdb.com/find?q=Once%20Upon%20a%20Time%20in%20America%20(1984)&s=tt&ttype=ft&ref_=fn_ft
+650|Seventh Seal, The (Sjunde inseglet, Det) (1957)|https://www.imdb.com/find?q=Sjunde%20inseglet,%20Det%20(1957)&s=tt&ttype=ft&ref_=fn_ft
+651|Glory (1989)|https://www.imdb.com/find?q=Glory%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+652|Rosencrantz and Guildenstern Are Dead (1990)|https://www.imdb.com/find?q=Rosencrantz%20and%20Guildenstern%20Are%20Dead%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+653|Touch of Evil (1958)|https://www.imdb.com/find?q=Touch%20of%20Evil%20(1958)&s=tt&ttype=ft&ref_=fn_ft
+654|Chinatown (1974)|https://www.imdb.com/find?q=Chinatown%20(1974)&s=tt&ttype=ft&ref_=fn_ft
+655|Stand by Me (1986)|https://www.imdb.com/find?q=Stand%20by%20Me%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+656|M (1931)|https://www.imdb.com/find?q=M%20(1931)&s=tt&ttype=ft&ref_=fn_ft
+657|Manchurian Candidate, The (1962)|https://www.imdb.com/find?q=Manchurian%20Candidate,%20The%20(1962)&s=tt&ttype=ft&ref_=fn_ft
+658|Pump Up the Volume (1990)|https://www.imdb.com/find?q=Pump%20Up%20the%20Volume%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+659|Arsenic and Old Lace (1944)|https://www.imdb.com/find?q=Arsenic%20and%20Old%20Lace%20(1944)&s=tt&ttype=ft&ref_=fn_ft
+660|Fried Green Tomatoes (1991)|https://www.imdb.com/find?q=Fried%20Green%20Tomatoes%20at%20the%20Whistle%20Stop%20Cafe%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+661|High Noon (1952)|https://www.imdb.com/find?q=High%20Noon%20(1952)&s=tt&ttype=ft&ref_=fn_ft
+662|Somewhere in Time (1980)|https://www.imdb.com/find?q=Somewhere%20in%20Time%20(1980)&s=tt&ttype=ft&ref_=fn_ft
+663|Being There (1979)|https://www.imdb.com/find?q=Being%20There%20(1979)&s=tt&ttype=ft&ref_=fn_ft
+664|Paris, Texas (1984)|https://www.imdb.com/find?q=Paris,%20Texas%20(1984)&s=tt&ttype=ft&ref_=fn_ft
+665|Alien 3 (1992)|https://www.imdb.com/find?q=Alien%203%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+666|Blood For Dracula (Andy Warhol's Dracula) (1974)|https://www.imdb.com/find?q=Andy%20Warhol's%20Dracula%20(1974)&s=tt&ttype=ft&ref_=fn_ft
+667|Audrey Rose (1977)|https://www.imdb.com/find?q=Audrey%20Rose%20(1977)&s=tt&ttype=ft&ref_=fn_ft
+668|Blood Beach (1981)|https://www.imdb.com/find?q=Blood%20Beach%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+669|Body Parts (1991)|https://www.imdb.com/find?q=Body%20Parts%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+670|Body Snatchers (1993)|https://www.imdb.com/find?q=Body%20Snatchers%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+671|Bride of Frankenstein (1935)|https://www.imdb.com/find?q=Bride%20of%20Frankenstein%20(1935)&s=tt&ttype=ft&ref_=fn_ft
+672|Candyman (1992)|https://www.imdb.com/find?q=Candyman%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+673|Cape Fear (1962)|https://www.imdb.com/find?q=Cape%20Fear%20(1962)&s=tt&ttype=ft&ref_=fn_ft
+674|Cat People (1982)|https://www.imdb.com/find?q=Cat%20People%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+675|Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)|https://www.imdb.com/find?q=Nosferatu,%20eine%20Symphonie%20des%20Grauens%20(1922)&s=tt&ttype=ft&ref_=fn_ft
+676|Crucible, The (1996)|https://www.imdb.com/find?q=Crucible,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+677|Fire on the Mountain (1996)|https://www.imdb.com/find?q=Fire%20on%20the%20Mountain%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+678|Volcano (1997)|https://www.imdb.com/find?q=Volcano%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+679|Conan the Barbarian (1981)|https://www.imdb.com/find?q=Conan+the+Barbarian+(1981)&s=tt&ttype=ft&ref_=fn_ft
+680|Kull the Conqueror (1997)|https://www.imdb.com/find?q=Kull+the+Conqueror+(1997)&s=tt&ttype=ft&ref_=fn_ft
+681|Wishmaster (1997)|https://www.imdb.com/find?q=Wishmaster+(1997)&s=tt&ttype=ft&ref_=fn_ft
+682|I Know What You Did Last Summer (1997)|https://www.imdb.com/find?q=I+Know+What+You+Did+Last+Summer+(1997)&s=tt&ttype=ft&ref_=fn_ft
+683|Rocket Man (1997)|https://www.imdb.com/find?q=Rocket+Man+(1997)&s=tt&ttype=ft&ref_=fn_ft
+684|In the Line of Fire (1993)|https://www.imdb.com/find?q=In%20the%20Line%20of%20Fire%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+685|Executive Decision (1996)|https://www.imdb.com/find?q=Executive%20Decision%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+686|Perfect World, A (1993)|https://www.imdb.com/find?q=Perfect%20World,%20A%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+687|McHale's Navy (1997)|https://www.imdb.com/find?q=McHale's%20Navy%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+688|Leave It to Beaver (1997)|https://www.imdb.com/find?q=Leave+It+To+Beaver+(1997)&s=tt&ttype=ft&ref_=fn_ft
+689|Jackal, The (1997)|https://www.imdb.com/find?q=Jackal%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+690|Seven Years in Tibet (1997)|https://www.imdb.com/find?q=Seven+Years+in+Tibet+(1997)&s=tt&ttype=ft&ref_=fn_ft
+692|American President, The (1995)|https://www.imdb.com/find?q=American%20President,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+693|Casino (1995)|https://www.imdb.com/find?q=Casino%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+694|Persuasion (1995)|https://www.imdb.com/find?q=Persuasion+(1995/I)&s=tt&ttype=ft&ref_=fn_ft
+695|Kicking and Screaming (1995)|https://www.imdb.com/find?q=Kicking%20and%20Screaming%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+696|City Hall (1996)|https://www.imdb.com/find?q=City%20Hall%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+697|Basketball Diaries, The (1995)|https://www.imdb.com/find?q=Basketball%20Diaries,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+698|Browning Version, The (1994)|https://www.imdb.com/find?q=Browning%20Version,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+699|Little Women (1994)|https://www.imdb.com/find?q=Little%20Women%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+700|Miami Rhapsody (1995)|https://www.imdb.com/find?q=Miami%20Rhapsody%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+701|Wonderful, Horrible Life of Leni Riefenstahl, The (1993)|https://www.imdb.com/find?q=Macht%20der%20Bilder:%20Leni%20Riefenstahl,%20Die%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+702|Barcelona (1994)|https://www.imdb.com/find?q=Barcelona%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+703|Widows' Peak (1994)|https://www.imdb.com/find?q=Widows'%20Peak%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+704|House of the Spirits, The (1993)|https://www.imdb.com/find?q=House%20of%20the%20Spirits,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+705|Singin' in the Rain (1952)|https://www.imdb.com/find?q=Singin'%20in%20the%20Rain%20(1952)&s=tt&ttype=ft&ref_=fn_ft
+706|Bad Moon (1996)|https://www.imdb.com/find?q=Bad%20Moon%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+707|Enchanted April (1991)|https://www.imdb.com/find?q=Enchanted%20April%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+708|Sex, Lies, and Videotape (1989)|https://www.imdb.com/find?q=sex,%20lies,%20and%20videotape%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+709|Strictly Ballroom (1992)|https://www.imdb.com/find?q=Strictly%20Ballroom%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+710|Better Off Dead... (1985)|https://www.imdb.com/find?q=Better+Off+Dead...+(1985)&s=tt&ttype=ft&ref_=fn_ft
+711|Substance of Fire, The (1996)|https://www.imdb.com/find?q=Substance%20of%20Fire,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+712|Tin Men (1987)|https://www.imdb.com/find?q=Tin%20Men%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+713|Othello (1995)|https://www.imdb.com/find?q=Othello%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+714|Carrington (1995)|https://www.imdb.com/find?q=Carrington%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+715|To Die For (1995)|https://www.imdb.com/find?q=To%20Die%20For%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+716|Home for the Holidays (1995)|https://www.imdb.com/find?q=Home%20for%20the%20Holidays%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+717|Juror, The (1996)|https://www.imdb.com/find?q=Juror,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+718|In the Bleak Midwinter (1995)|https://www.imdb.com/find?q=In%20the%20Bleak%20Midwinter%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+719|Canadian Bacon (1994)|https://www.imdb.com/find?q=Canadian%20Bacon%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+720|First Knight (1995)|https://www.imdb.com/find?q=First%20Knight%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+721|Mallrats (1995)|https://www.imdb.com/find?q=Mallrats%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+722|Nine Months (1995)|https://www.imdb.com/find?q=Nine%20Months%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+723|Boys on the Side (1995)|https://www.imdb.com/find?q=Boys%20on%20the%20Side%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+724|Circle of Friends (1995)|https://www.imdb.com/find?q=Circle%20of%20Friends%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+725|Exit to Eden (1994)|https://www.imdb.com/find?q=Exit%20to%20Eden%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+726|Fluke (1995)|https://www.imdb.com/find?q=Fluke%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+727|Immortal Beloved (1994)|https://www.imdb.com/find?q=Immortal%20Beloved%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+728|Junior (1994)|https://www.imdb.com/find?q=Junior%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+729|Nell (1994)|https://www.imdb.com/find?q=Nell%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+730|Queen Margot (Reine Margot, La) (1994)|https://www.imdb.com/find?q=Reine+Margot,+La+(1994)&s=tt&ttype=ft&ref_=fn_ft
+731|Corrina, Corrina (1994)|https://www.imdb.com/find?q=Corrina,%20Corrina%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+732|Dave (1993)|https://www.imdb.com/find?q=Dave%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+733|Go Fish (1994)|https://www.imdb.com/find?q=Go%20Fish%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+734|Made in America (1993)|https://www.imdb.com/find?q=Made%20in%20America%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+735|Philadelphia (1993)|https://www.imdb.com/find?q=Philadelphia%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+736|Shadowlands (1993)|https://www.imdb.com/find?q=Shadowlands%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+737|Sirens (1994)|https://www.imdb.com/find?q=Sirens%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+738|Threesome (1994)|https://www.imdb.com/find?q=Threesome%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+739|Pretty Woman (1990)|https://www.imdb.com/find?q=Pretty%20Woman%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+740|Jane Eyre (1996)|https://www.imdb.com/find?q=Jane%20Eyre%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+741|Last Supper, The (1995)|https://www.imdb.com/find?q=Last%20Supper,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+742|Ransom (1996)|https://www.imdb.com/find?q=Ransom%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+743|Crow: City of Angels, The (1996)|https://www.imdb.com/find?q=Crow%3A%20City%20of%20Angels%2C%20The%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+744|Michael Collins (1996)|https://www.imdb.com/find?q=Michael%20Collins%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+745|Ruling Class, The (1972)|https://www.imdb.com/find?q=Ruling%20Class,%20The%20(1972)&s=tt&ttype=ft&ref_=fn_ft
+746|Real Genius (1985)|https://www.imdb.com/find?q=Real%20Genius%20(1985)&s=tt&ttype=ft&ref_=fn_ft
+747|Benny & Joon (1993)|https://www.imdb.com/find?q=Benny%20&%20Joon%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+748|Saint, The (1997)|https://www.imdb.com/find?q=Saint%2C%20The%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+749|MatchMaker, The (1997)|https://www.imdb.com/find?q=Matchmaker%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+752|Replacement Killers, The (1998)|https://www.imdb.com/find?q=Replacement+Killers%2C+The+(1998)&s=tt&ttype=ft&ref_=fn_ft
+753|Burnt By the Sun (1994)|https://www.imdb.com/find?q=Utomlyonnye%20Solntsem%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+754|Red Corner (1997)|https://www.imdb.com/find?q=Red+Corner+(1997)&s=tt&ttype=ft&ref_=fn_ft
+755|Jumanji (1995)|https://www.imdb.com/find?q=Jumanji%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+756|Father of the Bride Part II (1995)|https://www.imdb.com/find?q=Father%20of%20the%20Bride%20Part%20II%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+757|Across the Sea of Time (1995)|https://www.imdb.com/find?q=Across%20The%20Sea%20of%20Time%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+758|Lawnmower Man 2: Beyond Cyberspace (1996)|https://www.imdb.com/find?q=Lawnmower%20Man%202:%20Beyond%20Cyberspace%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+759|Fair Game (1995)|https://www.imdb.com/find?q=Fair%20Game%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+760|Screamers (1995)|https://www.imdb.com/find?q=Screamers%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+761|Nick of Time (1995)|https://www.imdb.com/find?q=Nick%20of%20Time%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+762|Beautiful Girls (1996)|https://www.imdb.com/find?q=Beautiful%20Girls%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+763|Happy Gilmore (1996)|https://www.imdb.com/find?q=Happy%20Gilmore%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+764|If Lucy Fell (1996)|https://www.imdb.com/find?q=If%20Lucy%20Fell%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+765|Boomerang (1992)|https://www.imdb.com/find?q=Boomerang%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+766|Man of the Year (1995)|https://www.imdb.com/find?q=Man%20of%20the%20Year%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+767|Addiction, The (1995)|https://www.imdb.com/find?q=Addiction,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+768|Casper (1995)|https://www.imdb.com/find?q=Casper%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+769|Congo (1995)|https://www.imdb.com/find?q=Congo%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+770|Devil in a Blue Dress (1995)|https://www.imdb.com/find?q=Devil%20in%20a%20Blue%20Dress%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+771|Johnny Mnemonic (1995)|https://www.imdb.com/find?q=Johnny%20Mnemonic%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+772|Kids (1995)|https://www.imdb.com/find?q=Kids%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+773|Mute Witness (1994)|https://www.imdb.com/find?q=Mute%20Witness%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+774|Prophecy, The (1995)|https://www.imdb.com/find?q=Prophecy,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+775|Something to Talk About (1995)|https://www.imdb.com/find?q=Something%20to%20Talk%20About%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+776|Three Wishes (1995)|https://www.imdb.com/find?q=Three%20Wishes%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+777|Castle Freak (1995)|https://www.imdb.com/find?q=Castle%20Freak%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+778|Don Juan DeMarco (1995)|https://www.imdb.com/find?q=Don%20Juan%20DeMarco%20and%20the%20Centerfold%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+779|Drop Zone (1994)|https://www.imdb.com/find?q=Drop%20Zone%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+780|Dumb & Dumber (1994)|https://www.imdb.com/find?q=Dumb%20&%20Dumber%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+781|French Kiss (1995)|https://www.imdb.com/find?q=French%20Kiss%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+782|Little Odessa (1994)|https://www.imdb.com/find?q=Little%20Odessa%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+783|Milk Money (1994)|https://www.imdb.com/find?q=Milk%20Money%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+784|Beyond Bedlam (1993)|https://www.imdb.com/find?q=Beyond+Bedlam+(1993)&s=tt&ttype=ft&ref_=fn_ft
+785|Only You (1994)|https://www.imdb.com/find?q=Only%20You%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+786|Perez Family, The (1995)|https://www.imdb.com/find?q=Perez%20Family,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+787|Roommates (1995)|https://www.imdb.com/find?q=Roommates%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+788|Relative Fear (1994)|https://www.imdb.com/find?q=Relative%20Fear%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+789|Swimming with Sharks (1995)|https://www.imdb.com/find?q=Swimming%20with%20Sharks%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+790|Tommy Boy (1995)|https://www.imdb.com/find?q=Tommy%20Boy%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+791|Baby-Sitters Club, The (1995)|https://www.imdb.com/find?q=Baby-Sitters%20Club,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+792|Bullets Over Broadway (1994)|https://www.imdb.com/find?q=Bullets%20Over%20Broadway%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+793|Crooklyn (1994)|https://www.imdb.com/find?q=Crooklyn%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+794|It Could Happen to You (1994)|https://www.imdb.com/find?q=It%20Could%20Happen%20to%20You%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+795|Richie Rich (1994)|https://www.imdb.com/find?q=Richie%20Rich%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+796|Speechless (1994)|https://www.imdb.com/find?q=Speechless%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+797|Timecop (1994)|https://www.imdb.com/find?q=Timecop%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+798|Bad Company (1995)|https://www.imdb.com/find?q=Bad%20Company%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+799|Boys Life (1995)|https://www.imdb.com/find?q=Boys%20Life%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+800|In the Mouth of Madness (1995)|https://www.imdb.com/find?q=In%20the%20Mouth%20of%20Madness%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+801|Air Up There, The (1994)|https://www.imdb.com/find?q=Air%20Up%20There,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+802|Hard Target (1993)|https://www.imdb.com/find?q=Hard%20Target%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+803|Heaven & Earth (1993)|https://www.imdb.com/find?q=Heaven%20&%20Earth%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+804|Jimmy Hollywood (1994)|https://www.imdb.com/find?q=Jimmy%20Hollywood%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+805|Manhattan Murder Mystery (1993)|https://www.imdb.com/find?q=Manhattan%20Murder%20Mystery%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+806|Menace II Society (1993)|https://www.imdb.com/find?q=Menace%20II%20Society%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+807|Poetic Justice (1993)|https://www.imdb.com/find?q=Poetic%20Justice%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+808|Program, The (1993)|https://www.imdb.com/find?q=Program,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+809|Rising Sun (1993)|https://www.imdb.com/find?q=Rising%20Sun%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+810|Shadow, The (1994)|https://www.imdb.com/find?q=Shadow,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+811|Thirty-Two Short Films About Glenn Gould (1993)|https://www.imdb.com/find?q=Thirty-Two%20Short%20Films%20About%20Glenn%20Gould%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+812|Andre (1994)|https://www.imdb.com/find?q=Andre%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+813|Celluloid Closet, The (1995)|https://www.imdb.com/find?q=Celluloid%20Closet,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+814|Great Day in Harlem, A (1994)|https://www.imdb.com/find?q=Great%20Day%20in%20Harlem,%20A%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+815|One Fine Day (1996)|https://www.imdb.com/find?q=One%20Fine%20Day%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+816|Candyman: Farewell to the Flesh (1995)|https://www.imdb.com/find?q=Candyman:%20Farewell%20to%20the%20Flesh%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+817|Frisk (1995)|https://www.imdb.com/find?q=Frisk%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+818|Girl 6 (1996)|https://www.imdb.com/find?q=Girl%206%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+819|Eddie (1996)|https://www.imdb.com/find?q=Eddie%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+820|Space Jam (1996)|https://www.imdb.com/find?q=Space%20Jam%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+821|Mrs. Winterbourne (1996)|https://www.imdb.com/find?q=Mrs.%20Winterbourne%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+822|Faces (1968)|https://www.imdb.com/find?q=Faces%20(1968)&s=tt&ttype=ft&ref_=fn_ft
+823|Mulholland Falls (1996)|https://www.imdb.com/find?q=Mulholland%20Falls%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+824|Great White Hype, The (1996)|https://www.imdb.com/find?q=Great%20White%20Hype,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+825|Arrival, The (1996)|https://www.imdb.com/find?q=Arrival,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+826|Phantom, The (1996)|https://www.imdb.com/find?q=Phantom,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+827|Daylight (1996)|https://www.imdb.com/find?q=Daylight%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+828|Alaska (1996)|https://www.imdb.com/find?q=Alaska%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+829|Fled (1996)|https://www.imdb.com/find?q=Fled%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+830|Power 98 (1995)|https://www.imdb.com/find?q=Power%2098%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+831|Escape from L.A. (1996)|https://www.imdb.com/find?q=Escape%20from%20L.A.%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+832|Bogus (1996)|https://www.imdb.com/find?q=Bogus%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+833|Bulletproof (1996)|https://www.imdb.com/find?q=Bulletproof%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+834|Halloween: The Curse of Michael Myers (1995)|https://www.imdb.com/find?q=Halloween:%20The%20Curse%20of%20Michael%20Myers%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+835|Gay Divorcee, The (1934)|https://www.imdb.com/find?q=Gay%20Divorcee%2C%20The%20%281934%29&s=tt&ttype=ft&ref_=fn_ft
+836|Ninotchka (1939)|https://www.imdb.com/find?q=Ninotchka%20(1939)&s=tt&ttype=ft&ref_=fn_ft
+837|Meet John Doe (1941)|https://www.imdb.com/find?q=Meet%20John%20Doe%20(1941)&s=tt&ttype=ft&ref_=fn_ft
+838|In the Line of Duty 2 (1987)|https://www.imdb.com/find?q=In%20the%20Line%20of%20Duty%202%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+839|Loch Ness (1995)|https://www.imdb.com/find?q=Loch%20Ness%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+840|Last Man Standing (1996)|https://www.imdb.com/find?q=Last%20Man%20Standing%20(1996/I)&s=tt&ttype=ft&ref_=fn_ft
+841|Glimmer Man, The (1996)|https://www.imdb.com/find?q=Glimmer%20Man,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+842|Pollyanna (1960)|https://www.imdb.com/find?q=Pollyanna%20(1960)&s=tt&ttype=ft&ref_=fn_ft
+843|Shaggy Dog, The (1959)|https://www.imdb.com/find?q=Shaggy%20Dog,%20The%20(1959)&s=tt&ttype=ft&ref_=fn_ft
+844|Freeway (1996)|https://www.imdb.com/find?q=Freeway%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+845|That Thing You Do! (1996)|https://www.imdb.com/find?q=That%20Thing%20You%20Do!%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+846|To Gillian on Her 37th Birthday (1996)|https://www.imdb.com/find?q=To%20Gillian%20on%20Her%2037th%20Birthday%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+847|Looking for Richard (1996)|https://www.imdb.com/find?q=Looking%20for%20Richard%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+848|Murder, My Sweet (1944)|https://www.imdb.com/find?q=Murder,%20My%20Sweet%20(1944)&s=tt&ttype=ft&ref_=fn_ft
+849|Days of Thunder (1990)|https://www.imdb.com/find?q=Days%20of%20Thunder%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+850|Perfect Candidate, A (1996)|https://www.imdb.com/find?q=Perfect%20Candidate,%20A%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+851|Two or Three Things I Know About Her (1966)|https://www.imdb.com/find?q=Deux%20ou%20trois%20choses%20que%20je%20sais%20d'elle%20(1966)&s=tt&ttype=ft&ref_=fn_ft
+852|Bloody Child, The (1996)|https://www.imdb.com/find?q=Bloody%20Child%2C%20The%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+853|Braindead (1992)|https://www.imdb.com/find?q=Braindead%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+854|Bad Taste (1987)|https://www.imdb.com/find?q=Bad%20Taste%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+855|Diva (1981)|https://www.imdb.com/find?q=Diva%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+856|Night on Earth (1991)|https://www.imdb.com/find?q=Night%20on%20Earth%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+857|Paris Was a Woman (1995)|https://www.imdb.com/find?q=Paris%20Was%20a%20Woman%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+858|Amityville: Dollhouse (1996)|https://www.imdb.com/find?q=Amityville:%20Dollhouse%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+859|April Fool's Day (1986)|https://www.imdb.com/find?q=April%20Fool's%20Day%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+860|Believers, The (1987)|https://www.imdb.com/find?q=Believers,%20The%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+861|Nosferatu a Venezia (1986)|https://www.imdb.com/find?q=Nosferatu%20a%20Venezia%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+862|Jingle All the Way (1996)|https://www.imdb.com/find?q=Jingle%20All%20the%20Way%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+863|Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)|https://www.imdb.com/find?q=Giardino%20dei%20Finzi-Contini,%20Il%20(1970)&s=tt&ttype=ft&ref_=fn_ft
+864|My Fellow Americans (1996)|https://www.imdb.com/find?q=My%20Fellow%20Americans%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+865|Ice Storm, The (1997)|https://www.imdb.com/find?q=Ice+Storm%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+866|Michael (1996)|https://www.imdb.com/find?q=Michael%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+867|Whole Wide World, The (1996)|https://www.imdb.com/find?q=Whole%20Wide%20World,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+868|Hearts and Minds (1996)|https://www.imdb.com/find?q=Hearts%20and%20Minds%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+869|Fools Rush In (1997)|https://www.imdb.com/find?q=Fools%20Rush%20In%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+870|Touch (1997)|https://www.imdb.com/find?q=Touch%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+871|Vegas Vacation (1997)|https://www.imdb.com/find?q=Vegas%20Vacation%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+872|Love Jones (1997)|https://www.imdb.com/find?q=Love%20Jones%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+873|Picture Perfect (1997)|https://www.imdb.com/find?q=Picture+Perfect+(1997)&s=tt&ttype=ft&ref_=fn_ft
+874|Career Girls (1997)|https://www.imdb.com/find?q=Career+Girls+(1997)&s=tt&ttype=ft&ref_=fn_ft
+875|She's So Lovely (1997)|https://www.imdb.com/find?q=She%27s+So+Lovely+(1997)&s=tt&ttype=ft&ref_=fn_ft
+876|Money Talks (1997)|https://www.imdb.com/find?q=Money+Talks+(1997)&s=tt&ttype=ft&ref_=fn_ft
+877|Excess Baggage (1997)|https://www.imdb.com/find?q=Excess+Baggage+(1997)&s=tt&ttype=ft&ref_=fn_ft
+878|That Darn Cat! (1997)|https://www.imdb.com/find?q=That%20Darn%20Cat%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+879|Peacemaker, The (1997)|https://www.imdb.com/find?q=Peacemaker%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+880|Soul Food (1997)|https://www.imdb.com/find?q=Soul+Food+(1997)&s=tt&ttype=ft&ref_=fn_ft
+881|Money Talks (1997)|https://www.imdb.com/find?q=Money+Talks+(1997)&s=tt&ttype=ft&ref_=fn_ft
+882|Washington Square (1997)|https://www.imdb.com/find?q=Washington+Square+(1997)&s=tt&ttype=ft&ref_=fn_ft
+883|Telling Lies in America (1997)|https://www.imdb.com/find?q=Telling+Lies+in+America+(1997)&s=tt&ttype=ft&ref_=fn_ft
+884|Year of the Horse (1997)|https://www.imdb.com/find?q=Year+of+the+Horse+(1997)&s=tt&ttype=ft&ref_=fn_ft
+885|Phantoms (1998)|https://www.imdb.com/find?q=Phantoms+(1998)&s=tt&ttype=ft&ref_=fn_ft
+886|Life Less Ordinary, A (1997)|https://www.imdb.com/find?q=Life+Less+Ordinary,+A+(1997)&s=tt&ttype=ft&ref_=fn_ft
+887|Eve's Bayou (1997)|https://www.imdb.com/find?q=Eve's+Bayou+(1997)&s=tt&ttype=ft&ref_=fn_ft
+888|One Night Stand (1997)|https://www.imdb.com/find?q=One+Night+Stand+(1997)&s=tt&ttype=ft&ref_=fn_ft
+889|Tango Lesson, The (1997)|https://www.imdb.com/find?q=Tango+Lesson,+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+890|Mortal Kombat: Annihilation (1997)|https://www.imdb.com/find?q=Mortal+Kombat%3A+Annihilation+(1997)&s=tt&ttype=ft&ref_=fn_ft
+896|Sweet Hereafter, The (1997)|https://www.imdb.com/find?q=Sweet+Hereafter%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+910|Nil By Mouth (1997)|https://www.imdb.com/find?q=Nil+By+Mouth+(1997)&s=tt&ttype=ft&ref_=fn_ft
+912|U.S. Marshalls (1998)|https://www.imdb.com/find?q=U.S.+Marshals+(1998)&s=tt&ttype=ft&ref_=fn_ft
+913|Love and Death on Long Island (1997)|https://www.imdb.com/find?q=Love+and+Death+on+Long+Island+(1997)&s=tt&ttype=ft&ref_=fn_ft
+914|Wild Things (1998)|https://www.imdb.com/find?q=Wild+Things+(1998)&s=tt&ttype=ft&ref_=fn_ft
+915|Primary Colors (1998)|https://www.imdb.com/find?q=Primary+Colors+(1998)&s=tt&ttype=ft&ref_=fn_ft
+916|Lost in Space (1998)|https://www.imdb.com/find?q=Lost+in+Space+(1998)&s=tt&ttype=ft&ref_=fn_ft
+917|Mercury Rising (1998)|https://www.imdb.com/find?q=Mercury+Rising+(1998)&s=tt&ttype=ft&ref_=fn_ft
+918|City of Angels (1998)|https://www.imdb.com/find?q=City+of+Angels+(1998)&s=tt&ttype=ft&ref_=fn_ft
+919|City of Lost Children, The (1995)|https://www.imdb.com/find?q=Cit%E9+des+enfants+perdus,+La+(1995)&s=tt&ttype=ft&ref_=fn_ft
+920|Two Bits (1995)|https://www.imdb.com/find?q=Two%20Bits%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+921|Farewell My Concubine (1993)|https://www.imdb.com/find?q=Ba%20Wang%20Bie%20Ji%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+922|Dead Man (1995)|https://www.imdb.com/find?q=Dead%20Man%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+923|Raise the Red Lantern (1991)|https://www.imdb.com/find?q=Da%20Hong%20Deng%20Long%20Gao%20Gao%20Gua%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+924|White Squall (1996)|https://www.imdb.com/find?q=White%20Squall%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+925|Unforgettable (1996)|https://www.imdb.com/find?q=Unforgettable+(1996)&s=tt&ttype=ft&ref_=fn_ft
+926|Down Periscope (1996)|https://www.imdb.com/find?q=Down%20Periscope%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+927|Flower of My Secret, The (Flor de mi secreto, La) (1995)|https://www.imdb.com/find?q=Flor%20de%20mi%20secreto,%20La%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+928|Craft, The (1996)|https://www.imdb.com/find?q=Craft,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+929|Harriet the Spy (1996)|https://www.imdb.com/find?q=Harriet%20the%20Spy%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+930|Chain Reaction (1996)|https://www.imdb.com/find?q=Chain%20Reaction%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+931|Island of Dr. Moreau, The (1996)|https://www.imdb.com/find?q=Island%20of%20Dr.%20Moreau,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+932|First Kid (1996)|https://www.imdb.com/find?q=First%20Kid%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+933|Funeral, The (1996)|https://www.imdb.com/find?q=Funeral,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+934|Preacher's Wife, The (1996)|https://www.imdb.com/find?q=Preacher's%20Wife,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+935|Paradise Road (1997)|https://www.imdb.com/find?q=Paradise%20Road%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+936|Brassed Off (1996)|https://www.imdb.com/find?q=Brassed%20Off%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+937|Thousand Acres, A (1997)|https://www.imdb.com/find?q=Thousand+Acres%2C+A+(1997)&s=tt&ttype=ft&ref_=fn_ft
+938|Smile Like Yours, A (1997)|https://www.imdb.com/find?q=Smile+Like+Yours%2C+A+(1997)&s=tt&ttype=ft&ref_=fn_ft
+939|Murder in the First (1995)|https://www.imdb.com/find?q=Murder%20in%20the%20First%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+940|Airheads (1994)|https://www.imdb.com/find?q=Airheads%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+941|With Honors (1994)|https://www.imdb.com/find?q=With%20Honors%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+942|What's Love Got to Do with It (1993)|https://www.imdb.com/find?q=What's%20Love%20Got%20to%20Do%20with%20It%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+943|Killing Zoe (1994)|https://www.imdb.com/find?q=Killing%20Zoe%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+944|Renaissance Man (1994)|https://www.imdb.com/find?q=Renaissance%20Man%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+945|Charade (1963)|https://www.imdb.com/find?q=Charade%20(1963)&s=tt&ttype=ft&ref_=fn_ft
+946|Fox and the Hound, The (1981)|https://www.imdb.com/find?q=Fox%20and%20the%20Hound,%20The%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+947|Big Blue, The (Grand bleu, Le) (1988)|https://www.imdb.com/find?q=Grand%20bleu,%20Le%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+948|Booty Call (1997)|https://www.imdb.com/find?q=Booty%20Call%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+949|How to Make an American Quilt (1995)|https://www.imdb.com/find?q=How%20to%20Make%20an%20American%20Quilt%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+950|Georgia (1995)|https://www.imdb.com/find?q=Georgia%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+951|Indian in the Cupboard, The (1995)|https://www.imdb.com/find?q=Indian%20in%20the%20Cupboard,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+952|Blue in the Face (1995)|https://www.imdb.com/find?q=Blue%20in%20the%20Face%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+953|Unstrung Heroes (1995)|https://www.imdb.com/find?q=Unstrung%20Heroes%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+954|Unzipped (1995)|https://www.imdb.com/find?q=Unzipped%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+955|Before Sunrise (1995)|https://www.imdb.com/find?q=Before%20Sunrise%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+956|Nobody's Fool (1994)|https://www.imdb.com/find?q=Nobody's%20Fool%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+957|Pushing Hands (1992)|https://www.imdb.com/find?q=Tui%20Shou%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+958|To Live (Huozhe) (1994)|https://www.imdb.com/find?q=Huozhe%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+959|Dazed and Confused (1993)|https://www.imdb.com/find?q=Dazed%20and%20Confused%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+960|Naked (1993)|https://www.imdb.com/find?q=Naked%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+961|Orlando (1993)|https://www.imdb.com/find?q=Orlando%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+962|Ruby in Paradise (1993)|https://www.imdb.com/find?q=Ruby%20in%20Paradise%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+963|Some Folks Call It a Sling Blade (1993)|https://www.imdb.com/find?q=Some%20Folks%20Call%20It%20a%20Sling%20Blade%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+964|Month by the Lake, A (1995)|https://www.imdb.com/find?q=Month%20by%20The%20Lake,%20A%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+965|Funny Face (1957)|https://www.imdb.com/find?q=Funny%20Face%20(1957)&s=tt&ttype=ft&ref_=fn_ft
+966|Affair to Remember, An (1957)|https://www.imdb.com/find?q=Affair%20to%20Remember,%20An%20(1957)&s=tt&ttype=ft&ref_=fn_ft
+967|Little Lord Fauntleroy (1936)|https://www.imdb.com/find?q=Little%20Lord%20Fauntleroy%20(1936)&s=tt&ttype=ft&ref_=fn_ft
+968|Inspector General, The (1949)|https://www.imdb.com/find?q=Inspector%20General,%20The%20(1949)&s=tt&ttype=ft&ref_=fn_ft
+969|Winnie the Pooh and the Blustery Day (1968)|https://www.imdb.com/find?q=Winnie%20the%20Pooh%20and%20the%20Blustery%20Day%20%281968%29&s=tt&ttype=ft&ref_=fn_ft
+970|Hear My Song (1991)|https://www.imdb.com/find?q=Hear%20My%20Song%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+971|Mediterraneo (1991)|https://www.imdb.com/find?q=Mediterraneo%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+972|Passion Fish (1992)|https://www.imdb.com/find?q=Passion%20Fish%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+973|Grateful Dead (1995)|https://www.imdb.com/find?q=Grateful%20Dead%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+974|Eye for an Eye (1996)|https://www.imdb.com/find?q=Eye+for+an+Eye+(1996)&s=tt&ttype=ft&ref_=fn_ft
+975|Fear (1996)|https://www.imdb.com/find?q=Fear%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+976|Solo (1996)|https://www.imdb.com/find?q=Solo%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+977|Substitute, The (1996)|https://www.imdb.com/find?q=Substitute,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+978|Heaven's Prisoners (1996)|https://www.imdb.com/find?q=Heaven's%20Prisoners%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+979|Trigger Effect, The (1996)|https://www.imdb.com/find?q=Trigger%20Effect,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+980|Mother Night (1996)|https://www.imdb.com/find?q=Mother%20Night%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+981|Dangerous Ground (1997)|https://www.imdb.com/find?q=Dangerous%20Ground%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+982|Maximum Risk (1996)|https://www.imdb.com/find?q=Maximum%20Risk%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+983|Rich Man's Wife, The (1996)|https://www.imdb.com/find?q=Rich%20Man's%20Wife,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+984|Shadow Conspiracy (1997)|https://www.imdb.com/find?q=Shadow%20Conspiracy%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+985|Blood & Wine (1997)|https://www.imdb.com/find?q=Blood+%26+Wine+(1997)&s=tt&ttype=ft&ref_=fn_ft
+986|Turbulence (1997)|https://www.imdb.com/find?q=Turbulence%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+987|Underworld (1997)|https://www.imdb.com/find?q=Underworld%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+988|Beautician and the Beast, The (1997)|https://www.imdb.com/find?q=Beautician%20and%20the%20Beast,%20The%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+989|Cats Don't Dance (1997)|https://www.imdb.com/find?q=Cats%20Don%27t%20Dance%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+990|Anna Karenina (1997)|https://www.imdb.com/find?q=Anna%20Karenina%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+991|Keys to Tulsa (1997)|https://www.imdb.com/find?q=Keys+to+Tulsa+(1997)&s=tt&ttype=ft&ref_=fn_ft
+992|Head Above Water (1996)|https://www.imdb.com/find?q=Head+Above+Water+(1996)&s=tt&ttype=ft&ref_=fn_ft
+993|Hercules (1997)|https://www.imdb.com/find?q=Hercules+(1997)&s=tt&ttype=ft&ref_=fn_ft
+994|Last Time I Committed Suicide, The (1997)|https://www.imdb.com/find?q=Last+Time+I+Committed+Suicide%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+995|Kiss Me, Guido (1997)|https://www.imdb.com/find?q=Kiss+Me%2C+Guido+(1997)&s=tt&ttype=ft&ref_=fn_ft
+996|Big Green, The (1995)|https://www.imdb.com/find?q=Big%20Green,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+997|Stuart Saves His Family (1995)|https://www.imdb.com/find?q=Stuart%20Saves%20His%20Family%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+998|Cabin Boy (1994)|https://www.imdb.com/find?q=Cabin%20Boy%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+999|Clean Slate (1994)|https://www.imdb.com/find?q=Clean%20Slate%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1000|Lightning Jack (1994)|https://www.imdb.com/find?q=Lightning%20Jack%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1001|Stupids, The (1996)|https://www.imdb.com/find?q=Stupids,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1002|Pest, The (1997)|https://www.imdb.com/find?q=Pest,%20The%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1003|That Darn Cat! (1997)|https://www.imdb.com/find?q=That%20Darn%20Cat%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1004|Geronimo: An American Legend (1993)|https://www.imdb.com/find?q=Geronimo:%20An%20American%20Legend%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1005|Double vie de Véronique, La (Double Life of Veronique, The) (1991)|https://www.imdb.com/find?q=Podwojne%20zycie%20Weroniki%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+1006|Until the End of the World (Bis ans Ende der Welt) (1991)|https://www.imdb.com/find?q=Bis%20ans%20Ende%20der%20Welt%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+1007|Waiting for Guffman (1996)|https://www.imdb.com/find?q=Waiting%20for%20Guffman%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1008|I Shot Andy Warhol (1996)|https://www.imdb.com/find?q=I%20Shot%20Andy%20Warhol%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1009|Stealing Beauty (1996)|https://www.imdb.com/find?q=Stealing%20Beauty%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1010|Basquiat (1996)|https://www.imdb.com/find?q=Basquiat%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1011|2 Days in the Valley (1996)|https://www.imdb.com/find?q=2%20Days%20in%20the%20Valley%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1012|Private Parts (1997)|https://www.imdb.com/find?q=Private%20Parts%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1013|Anaconda (1997)|https://www.imdb.com/find?q=Anaconda%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1014|Romy and Michele's High School Reunion (1997)|https://www.imdb.com/find?q=Romy%20and%20Michele%27s%20High%20School%20Reunion%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1015|Shiloh (1997)|https://www.imdb.com/find?q=Shiloh%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1016|Con Air (1997)|https://www.imdb.com/find?q=Con%20Air%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1017|Trees Lounge (1996)|https://www.imdb.com/find?q=Trees%20Lounge%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1018|Tie Me Up! Tie Me Down! (1990)|https://www.imdb.com/find?q=%A1%C1tame%21+(1990)&s=tt&ttype=ft&ref_=fn_ft
+1019|Die xue shuang xiong (Killer, The) (1989)|https://www.imdb.com/find?q=Die%20xue%20shuang%20xiong%20(1989)&s=tt&ttype=ft&ref_=fn_ft
+1020|Gaslight (1944)|https://www.imdb.com/find?q=Gaslight%20(1944)&s=tt&ttype=ft&ref_=fn_ft
+1021|8 1/2 (1963)|https://www.imdb.com/find?q=8%201/2%20(1963)&s=tt&ttype=ft&ref_=fn_ft
+1022|Fast, Cheap & Out of Control (1997)|https://www.imdb.com/find?q=Fast,+Cheap+&+Out+of+Control+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1023|Fathers' Day (1997)|https://www.imdb.com/find?q=Fathers%27%20Day%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1024|Mrs. Dalloway (1997)|https://www.imdb.com/find?q=Mrs%2E+Dalloway+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1025|Fire Down Below (1997)|https://www.imdb.com/find?q=Fire+Down+Below+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1026|Lay of the Land, The (1997)|https://www.imdb.com/find?q=Lay+of+the+Land%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1027|Shooter, The (1995)|https://www.imdb.com/find?q=Shooter,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1028|Grumpier Old Men (1995)|https://www.imdb.com/find?q=Grumpier%20Old%20Men%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1029|Jury Duty (1995)|https://www.imdb.com/find?q=Jury%20Duty%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1030|Beverly Hillbillies, The (1993)|https://www.imdb.com/find?q=Beverly%20Hillbillies,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1031|Lassie (1994)|https://www.imdb.com/find?q=Lassie%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1032|Little Big League (1994)|https://www.imdb.com/find?q=Little%20Big%20League%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1033|Homeward Bound II: Lost in San Francisco (1996)|https://www.imdb.com/find?q=Homeward%20Bound%20II:%20Lost%20in%20San%20Francisco%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1034|Quest, The (1996)|https://www.imdb.com/find?q=Quest,%20The%20(1996/I)&s=tt&ttype=ft&ref_=fn_ft
+1035|Cool Runnings (1993)|https://www.imdb.com/find?q=Cool%20Runnings%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1036|Drop Dead Fred (1991)|https://www.imdb.com/find?q=Drop%20Dead%20Fred%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+1037|Grease 2 (1982)|https://www.imdb.com/find?q=Grease%202%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+1038|Switchback (1997)|https://www.imdb.com/find?q=Switchback+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1039|Hamlet (1996)|https://www.imdb.com/find?q=Hamlet%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1040|Two if by Sea (1996)|https://www.imdb.com/find?q=Two%20if%20by%20Sea%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1041|Forget Paris (1995)|https://www.imdb.com/find?q=Forget%20Paris%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1042|Just Cause (1995)|https://www.imdb.com/find?q=Just%20Cause%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1043|Rent-a-Kid (1995)|https://www.imdb.com/find?q=Rent-a-Kid%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1044|Paper, The (1994)|https://www.imdb.com/find?q=Paper,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1045|Fearless (1993)|https://www.imdb.com/find?q=Fearless%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1046|Malice (1993)|https://www.imdb.com/find?q=Malice%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1047|Multiplicity (1996)|https://www.imdb.com/find?q=Multiplicity%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1048|She's the One (1996)|https://www.imdb.com/find?q=She's%20the%20One%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1049|House Arrest (1996)|https://www.imdb.com/find?q=House+Arrest+(1996/I)&s=tt&ttype=ft&ref_=fn_ft
+1050|Ghost and Mrs. Muir, The (1947)|https://www.imdb.com/find?q=Ghost%20and%20Mrs.%20Muir,%20The%20(1947)&s=tt&ttype=ft&ref_=fn_ft
+1051|Associate, The (1996)|https://www.imdb.com/find?q=Associate,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1052|Dracula: Dead and Loving It (1995)|https://www.imdb.com/find?q=Dracula:%20Dead%20and%20Loving%20It%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1053|Now and Then (1995)|https://www.imdb.com/find?q=Now%20and%20Then%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1054|Mr. Wrong (1996)|https://www.imdb.com/find?q=Mr.%20Wrong%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1055|Simple Twist of Fate, A (1994)|https://www.imdb.com/find?q=Simple%20Twist%20of%20Fate,%20A%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1056|Cronos (1992)|https://www.imdb.com/find?q=Cronos%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1057|Pallbearer, The (1996)|https://www.imdb.com/find?q=Pallbearer,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1058|War, The (1994)|https://www.imdb.com/find?q=War,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1059|Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)|https://www.imdb.com/find?q=Don't%20Be%20a%20Menace%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1060|Adventures of Pinocchio, The (1996)|https://www.imdb.com/find?q=Adventures%20of%20Pinocchio,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1061|Evening Star, The (1996)|https://www.imdb.com/find?q=Evening%20Star,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1063|Little Princess, A (1995)|https://www.imdb.com/find?q=Little%20Princess,%20A%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1064|Crossfire (1947)|https://www.imdb.com/find?q=Crossfire%20(1947)&s=tt&ttype=ft&ref_=fn_ft
+1065|Koyaanisqatsi (1983)|https://www.imdb.com/find?q=Koyaanisqatsi%20(1983)&s=tt&ttype=ft&ref_=fn_ft
+1066|Balto (1995)|https://www.imdb.com/find?q=Balto%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1067|Bottle Rocket (1996)|https://www.imdb.com/find?q=Bottle%20Rocket%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1068|Star Maker, The (Uomo delle stelle, L') (1995)|https://www.imdb.com/find?q=Uomo%20delle%20stelle,%20L'%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1069|Amateur (1994)|https://www.imdb.com/find?q=Amateur%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1070|Living in Oblivion (1995)|https://www.imdb.com/find?q=Living%20in%20Oblivion%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1071|Party Girl (1995)|https://www.imdb.com/find?q=Party+Girl+(1995/I)&s=tt&ttype=ft&ref_=fn_ft
+1072|Pyromaniac's Love Story, A (1995)|https://www.imdb.com/find?q=Pyromaniac's%20Love%20Story,%20A%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1073|Shallow Grave (1994)|https://www.imdb.com/find?q=Shallow+Grave+(1994)&s=tt&ttype=ft&ref_=fn_ft
+1074|Reality Bites (1994)|https://www.imdb.com/find?q=Reality%20Bites%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1075|Man of No Importance, A (1994)|https://www.imdb.com/find?q=Man%20of%20No%20Importance,%20A%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1076|Pagemaster, The (1994)|https://www.imdb.com/find?q=Pagemaster,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1077|Love and a .45 (1994)|https://www.imdb.com/find?q=Love%20and%20a%20.45%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1078|Oliver & Company (1988)|https://www.imdb.com/find?q=Oliver%20&%20Company%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+1079|Joe's Apartment (1996)|https://www.imdb.com/find?q=Joe's%20Apartment%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1080|Celestial Clockwork (1994)|https://www.imdb.com/find?q=Cort%E1zar+(1994)&s=tt&ttype=ft&ref_=fn_ft
+1081|Curdled (1996)|https://www.imdb.com/find?q=Curdled%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1082|Female Perversions (1996)|https://www.imdb.com/find?q=Female%20Perversions%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1083|Albino Alligator (1996)|https://www.imdb.com/find?q=Albino%20Alligator%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1084|Anne Frank Remembered (1995)|https://www.imdb.com/find?q=Anne%20Frank%20Remembered%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1085|Carried Away (1996)|https://www.imdb.com/find?q=Carried%20Away%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1086|It's My Party (1995)|https://www.imdb.com/find?q=It's%20My%20Party%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1087|Bloodsport 2 (1995)|https://www.imdb.com/find?q=Bloodsport%202%20%281995%29&s=tt&ttype=ft&ref_=fn_ft
+1088|Double Team (1997)|https://www.imdb.com/find?q=Double%20Team%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1089|Speed 2: Cruise Control (1997)|https://www.imdb.com/find?q=Speed%202%3A%20Cruise%20Control%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1090|Sliver (1993)|https://www.imdb.com/find?q=Sliver%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1091|Pete's Dragon (1977)|https://www.imdb.com/find?q=Pete's%20Dragon%20(1977)&s=tt&ttype=ft&ref_=fn_ft
+1092|Dear God (1996)|https://www.imdb.com/find?q=Dear%20God%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1093|Live Nude Girls (1995)|https://www.imdb.com/find?q=Live%20Nude%20Girls%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1094|Thin Line Between Love and Hate, A (1996)|https://www.imdb.com/find?q=Thin%20Line%20Between%20Love%20and%20Hate,%20A%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1095|High School High (1996)|https://www.imdb.com/find?q=High%20School%20High%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1096|Commandments (1997)|https://www.imdb.com/find?q=Commandments+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1097|Hate (Haine, La) (1995)|https://www.imdb.com/find?q=Haine,%20La%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1098|Flirting With Disaster (1996)|https://www.imdb.com/find?q=Flirting%20With%20Disaster%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1099|Red Firecracker, Green Firecracker (1994)|https://www.imdb.com/find?q=Pao%20Da%20Shuang%20Deng%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1100|What Happened Was... (1994)|https://www.imdb.com/find?q=What%20Happened%20Was...%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1101|Six Degrees of Separation (1993)|https://www.imdb.com/find?q=Six%20Degrees%20of%20Separation%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1102|Two Much (1996)|https://www.imdb.com/find?q=Two%20Much%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1103|Trust (1990)|https://www.imdb.com/find?q=Trust+(1990)&s=tt&ttype=ft&ref_=fn_ft
+1104|C'est arrivé près de chez vous (1992)|https://www.imdb.com/find?q=C%27est%20arriv%E9%20pr%E8s%20de%20chez%20vous%20%281992%29&s=tt&ttype=ft&ref_=fn_ft
+1106|Newton Boys, The (1998)|https://www.imdb.com/find?q=Newton+Boys,+The+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1107|Beyond Rangoon (1995)|https://www.imdb.com/find?q=Beyond%20Rangoon%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1108|Feast of July (1995)|https://www.imdb.com/find?q=Feast%20of%20July%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1109|Death and the Maiden (1994)|https://www.imdb.com/find?q=Death%20and%20the%20Maiden%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1110|Tank Girl (1995)|https://www.imdb.com/find?q=Tank%20Girl%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1111|Double Happiness (1994)|https://www.imdb.com/find?q=Double%20Happiness%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1112|Cobb (1994)|https://www.imdb.com/find?q=Cobb%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1113|Mrs. Parker and the Vicious Circle (1994)|https://www.imdb.com/find?q=Mrs.%20Parker%20and%20the%20Vicious%20Circle%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1114|Faithful (1996)|https://www.imdb.com/find?q=Faithful%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1115|Twelfth Night (1996)|https://www.imdb.com/find?q=Twelfth%20Night:%20Or%20What%20You%20Will%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1116|Mark of Zorro, The (1940)|https://www.imdb.com/find?q=Mark%20of%20Zorro,%20The%20(1940)&s=tt&ttype=ft&ref_=fn_ft
+1117|Surviving Picasso (1996)|https://www.imdb.com/find?q=Surviving%20Picasso%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1118|Up in Smoke (1978)|https://www.imdb.com/find?q=Up%20in%20Smoke%20(1978)&s=tt&ttype=ft&ref_=fn_ft
+1119|Some Kind of Wonderful (1987)|https://www.imdb.com/find?q=Some%20Kind%20of%20Wonderful%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+1120|I'm Not Rappaport (1996)|https://www.imdb.com/find?q=I'm%20Not%20Rappaport%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1121|Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)|https://www.imdb.com/find?q=Parapluies%20de%20Cherbourg,%20Les%20(1964)&s=tt&ttype=ft&ref_=fn_ft
+1122|They Made Me a Criminal (1939)|https://www.imdb.com/find?q=They%20Made%20Me%20a%20Criminal%20(1939)&s=tt&ttype=ft&ref_=fn_ft
+1123|Last Time I Saw Paris, The (1954)|https://www.imdb.com/find?q=Last%20Time%20I%20Saw%20Paris,%20The%20(1954)&s=tt&ttype=ft&ref_=fn_ft
+1124|Farewell to Arms, A (1932)|https://www.imdb.com/find?q=Farewell%20to%20Arms,%20A%20(1932)&s=tt&ttype=ft&ref_=fn_ft
+1125|Innocents, The (1961)|https://www.imdb.com/find?q=Innocents,%20The%20(1961)&s=tt&ttype=ft&ref_=fn_ft
+1126|Old Man and the Sea, The (1958)|https://www.imdb.com/find?q=Old%20Man%20and%20the%20Sea,%20The%20(1958)&s=tt&ttype=ft&ref_=fn_ft
+1127|Truman Show, The (1998)|https://www.imdb.com/find?q=Truman+Show,+The+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1128|Heidi Fleiss: Hollywood Madam (1995) |https://www.imdb.com/find?q=Heidi%20Fleiss:%20Hollywood%20Madam%20(1995)%20(TV)&s=tt&ttype=ft&ref_=fn_ft
+1129|Chungking Express (1994)|https://www.imdb.com/find?q=Chongqing%20Senlin%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1130|Jupiter's Wife (1994)|https://www.imdb.com/find?q=Jupiter's%20Wife%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1131|Safe (1995)|https://www.imdb.com/find?q=Safe%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1132|Feeling Minnesota (1996)|https://www.imdb.com/find?q=Feeling%20Minnesota%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1133|Escape to Witch Mountain (1975)|https://www.imdb.com/find?q=Escape%20to%20Witch%20Mountain%20(1975)&s=tt&ttype=ft&ref_=fn_ft
+1134|Get on the Bus (1996)|https://www.imdb.com/find?q=Get%20on%20the%20Bus%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1135|Doors, The (1991)|https://www.imdb.com/find?q=Doors,%20The%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+1136|Ghosts of Mississippi (1996)|https://www.imdb.com/find?q=Ghosts%20of%20Mississippi%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1137|Beautiful Thing (1996)|https://www.imdb.com/find?q=Beautiful%20Thing%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1138|Best Men (1997)|https://www.imdb.com/find?q=&s=tt&ttype=ft&ref_=fn_ft
+1139|Hackers (1995)|https://www.imdb.com/find?q=Hackers%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1140|Road to Wellville, The (1994)|https://www.imdb.com/find?q=Road%20to%20Wellville,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1141|War Room, The (1993)|https://www.imdb.com/find?q=War%20Room,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1142|When We Were Kings (1996)|https://www.imdb.com/find?q=When%20We%20Were%20Kings%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1143|Hard Eight (1996)|https://www.imdb.com/find?q=Hard+Eight+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1144|Quiet Room, The (1996)|https://www.imdb.com/find?q=Quiet%20Room%2C%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1145|Blue Chips (1994)|https://www.imdb.com/find?q=Blue%20Chips%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1146|Calendar Girl (1993)|https://www.imdb.com/find?q=Calendar%20Girl%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1147|My Family (1995)|https://www.imdb.com/find?q=My%20Family%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1148|Tom & Viv (1994)|https://www.imdb.com/find?q=Tom%20&%20Viv%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1149|Walkabout (1971)|https://www.imdb.com/find?q=Walkabout%20(1971)&s=tt&ttype=ft&ref_=fn_ft
+1150|Last Dance (1996)|https://www.imdb.com/find?q=Last%20Dance%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1151|Original Gangstas (1996)|https://www.imdb.com/find?q=Original%20Gangstas%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1152|In Love and War (1996)|https://www.imdb.com/find?q=In%20Love%20and%20War%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1153|Backbeat (1993)|https://www.imdb.com/find?q=Backbeat%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1154|Alphaville (1965)|https://www.imdb.com/find?q=Alphaville%20(1965)&s=tt&ttype=ft&ref_=fn_ft
+1155|Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)|https://www.imdb.com/find?q=Rendez-vous%20de%20Paris,%20Les%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1156|Cyclo (1995)|https://www.imdb.com/find?q=Cyclo%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1157|Relic, The (1997)|https://www.imdb.com/find?q=Relic,%20The%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1158|Fille seule, La (A Single Girl) (1995)|https://www.imdb.com/find?q=Fille%20seule,%20La%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1159|Stalker (1979)|https://www.imdb.com/find?q=Stalker%20(1979)&s=tt&ttype=ft&ref_=fn_ft
+1160|Love! Valour! Compassion! (1997)|https://www.imdb.com/find?q=Love%21+Valour%21+Compassion%21+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1161|Palookaville (1996)|https://www.imdb.com/find?q=Palookaville%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1162|Phat Beach (1996)|https://www.imdb.com/find?q=Phat%20Beach%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1163|Portrait of a Lady, The (1996)|https://www.imdb.com/find?q=Portrait%20of%20a%20Lady%2C%20The%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1164|Zeus and Roxanne (1997)|https://www.imdb.com/find?q=Zeus%20and%20Roxanne%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1165|Big Bully (1996)|https://www.imdb.com/find?q=Big%20Bully%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1166|Love & Human Remains (1993)|https://www.imdb.com/find?q=Love%20&%20Human%20Remains%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1167|Sum of Us, The (1994)|https://www.imdb.com/find?q=Sum%20of%20Us,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1168|Little Buddha (1993)|https://www.imdb.com/find?q=Little%20Buddha%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1169|Fresh (1994)|https://www.imdb.com/find?q=Fresh%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1170|Spanking the Monkey (1994)|https://www.imdb.com/find?q=Spanking%20the%20Monkey%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1171|Wild Reeds (1994)|https://www.imdb.com/find?q=Roseaux%20sauvages%2C%20Les%20%281994%29&s=tt&ttype=ft&ref_=fn_ft
+1172|Women, The (1939)|https://www.imdb.com/find?q=Women,%20The%20(1939)&s=tt&ttype=ft&ref_=fn_ft
+1173|Bliss (1997)|https://www.imdb.com/find?q=Bliss%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1174|Caught (1996)|https://www.imdb.com/find?q=Caught%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1175|Hugo Pool (1997)|https://www.imdb.com/find?q=Hugo+Pool+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1176|Welcome To Sarajevo (1997)|https://www.imdb.com/find?q=Welcome+To+Sarajevo+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1177|Dunston Checks In (1996)|https://www.imdb.com/find?q=Dunston%20Checks%20In%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1178|Major Payne (1994)|https://www.imdb.com/find?q=Major%20Payne%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1179|Man of the House (1995)|https://www.imdb.com/find?q=Man%20of%20the%20House%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1180|I Love Trouble (1994)|https://www.imdb.com/find?q=I%20Love%20Trouble%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1181|Low Down Dirty Shame, A (1994)|https://www.imdb.com/find?q=Low%20Down%20Dirty%20Shame,%20A%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1182|Cops and Robbersons (1994)|https://www.imdb.com/find?q=Cops%20and%20Robbersons%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1183|Cowboy Way, The (1994)|https://www.imdb.com/find?q=Cowboy%20Way,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1184|Endless Summer 2, The (1994)|https://www.imdb.com/find?q=Endless%20Summer%202,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1185|In the Army Now (1994)|https://www.imdb.com/find?q=In%20the%20Army%20Now%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1186|Inkwell, The (1994)|https://www.imdb.com/find?q=Inkwell,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1187|Switchblade Sisters (1975)|https://www.imdb.com/find?q=Switchblade%20Sisters%20(1975)&s=tt&ttype=ft&ref_=fn_ft
+1188|Young Guns II (1990)|https://www.imdb.com/find?q=Young%20Guns%20II%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+1189|Prefontaine (1997)|https://www.imdb.com/find?q=Prefontaine%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1190|That Old Feeling (1997)|https://www.imdb.com/find?q=That%20Old%20Feeling%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1191|Letter From Death Row, A (1998)|https://www.imdb.com/find?q=Letter+From+Death+Row%2C+A+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1192|Boys of St. Vincent, The (1993)|https://www.imdb.com/find?q=Boys%20of%20St.%20Vincent,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1193|Before the Rain (Pred dozhdot) (1994)|https://www.imdb.com/find?q=Pred%20dozhdot%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1194|Once Were Warriors (1994)|https://www.imdb.com/find?q=Once%20Were%20Warriors%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1195|Strawberry and Chocolate (Fresa y chocolate) (1993)|https://www.imdb.com/find?q=Fresa%20y%20chocolate%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1196|Savage Nights (Nuits fauves, Les) (1992)|https://www.imdb.com/find?q=Nuits%20fauves,%20Les%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1197|Family Thing, A (1996)|https://www.imdb.com/find?q=Family%20Thing,%20A%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1198|Purple Noon (1960)|https://www.imdb.com/find?q=Plein%20soleil%20(1960)&s=tt&ttype=ft&ref_=fn_ft
+1199|Cemetery Man (Dellamorte Dellamore) (1994)|https://www.imdb.com/find?q=Dellamorte%20Dellamore%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1200|Kim (1950)|https://www.imdb.com/find?q=Kim%20(1950)&s=tt&ttype=ft&ref_=fn_ft
+1201|Marlene Dietrich: Shadow and Light (1996) |https://www.imdb.com/find?q=Marlene%20Dietrich:%20Shadow%20and%20Light%20(1996)%20(TV)&s=tt&ttype=ft&ref_=fn_ft
+1202|Maybe, Maybe Not (Bewegte Mann, Der) (1994)|https://www.imdb.com/find?q=Bewegte%20Mann,%20Der%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1203|Top Hat (1935)|https://www.imdb.com/find?q=Top%20Hat%20(1935)&s=tt&ttype=ft&ref_=fn_ft
+1204|To Be or Not to Be (1942)|https://www.imdb.com/find?q=To%20Be%20or%20Not%20to%20Be%20(1942)&s=tt&ttype=ft&ref_=fn_ft
+1205|Secret Agent, The (1996)|https://www.imdb.com/find?q=Secret%20Agent,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1206|Amos & Andrew (1993)|https://www.imdb.com/find?q=Amos%20&%20Andrew%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1207|Jade (1995)|https://www.imdb.com/find?q=Jade%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1208|Kiss of Death (1995)|https://www.imdb.com/find?q=Kiss%20of%20Death%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1209|Mixed Nuts (1994)|https://www.imdb.com/find?q=Mixed%20Nuts%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1210|Virtuosity (1995)|https://www.imdb.com/find?q=Virtuosity%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1211|Blue Sky (1994)|https://www.imdb.com/find?q=Blue%20Sky%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1212|Flesh and Bone (1993)|https://www.imdb.com/find?q=Flesh%20and%20Bone%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1213|Guilty as Sin (1993)|https://www.imdb.com/find?q=Guilty%20as%20Sin%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1214|In the Realm of the Senses (Ai no corrida) (1976)|https://www.imdb.com/find?q=Ai%20no%20Corrida%20(1976)&s=tt&ttype=ft&ref_=fn_ft
+1215|Barb Wire (1996)|https://www.imdb.com/find?q=Barb%20Wire%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1216|Kissed (1996)|https://www.imdb.com/find?q=Kissed%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1217|Assassins (1995)|https://www.imdb.com/find?q=Assassins+(1995)&s=tt&ttype=ft&ref_=fn_ft
+1218|Friday (1995)|https://www.imdb.com/find?q=Friday%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1219|Goofy Movie, A (1995)|https://www.imdb.com/find?q=Goofy%20Movie,%20A%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1220|Higher Learning (1995)|https://www.imdb.com/find?q=Higher%20Learning%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1221|When a Man Loves a Woman (1994)|https://www.imdb.com/find?q=When%20a%20Man%20Loves%20a%20Woman%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1222|Judgment Night (1993)|https://www.imdb.com/find?q=Judgment%20Night%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1223|King of the Hill (1993)|https://www.imdb.com/find?q=King%20of%20the%20Hill%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1224|Scout, The (1994)|https://www.imdb.com/find?q=Scout,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1225|Angus (1995)|https://www.imdb.com/find?q=Angus%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1226|Night Falls on Manhattan (1997)|https://www.imdb.com/find?q=Night%20Falls%20on%20Manhattan%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1227|Awfully Big Adventure, An (1995)|https://www.imdb.com/find?q=Awfully%20Big%20Adventure,%20An%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1228|Under Siege 2: Dark Territory (1995)|https://www.imdb.com/find?q=Under%20Siege%202:%20Dark%20Territory%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1229|Poison Ivy II (1995)|https://www.imdb.com/find?q=Poison%20Ivy%20II%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1230|Ready to Wear (Pret-A-Porter) (1994)|https://www.imdb.com/find?q=Pr%EAt-%E0-Porter+(1994)&s=tt&ttype=ft&ref_=fn_ft
+1231|Marked for Death (1990)|https://www.imdb.com/find?q=Marked%20for%20Death%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+1232|Madonna: Truth or Dare (1991)|https://www.imdb.com/find?q=Madonna:%20Truth%20or%20Dare%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+1233|Nénette et Boni (1996)|https://www.imdb.com/find?q=N%E9nette+et+Boni+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1234|Chairman of the Board (1998)|https://www.imdb.com/find?q=Chairman+of+the+Board+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1239|Cutthroat Island (1995)|https://www.imdb.com/find?q=Cutthroat%20Island%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1240|Ghost in the Shell (Kokaku kidotai) (1995)|https://www.imdb.com/find?q=Kokaku%20Kidotai%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1241|Van, The (1996)|https://www.imdb.com/find?q=Van%2C%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1242|Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)|https://www.imdb.com/find?q=Vieille%20qui%20marchait%20dans%20la%20mer,%20La%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+1243|Night Flier (1997)|https://www.imdb.com/find?q=Night+Flier+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1244|Metro (1997)|https://www.imdb.com/find?q=Metro%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1245|Gridlock'd (1997)|https://www.imdb.com/find?q=Gridlock'd%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1246|Bushwhacked (1995)|https://www.imdb.com/find?q=Bushwhacked+(1995/I)&s=tt&ttype=ft&ref_=fn_ft
+1247|Bad Girls (1994)|https://www.imdb.com/find?q=Bad+Girls+(1994/I)&s=tt&ttype=ft&ref_=fn_ft
+1248|Blink (1994)|https://www.imdb.com/find?q=Blink%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1249|For Love or Money (1993)|https://www.imdb.com/find?q=For%20Love%20or%20Money%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1250|Best of the Best 3: No Turning Back (1995)|https://www.imdb.com/find?q=Best%20of%20the%20Best%203:%20No%20Turning%20Back%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1251|A Chef in Love (1996)|https://www.imdb.com/find?q=Mille%20et%20une%20recettes%20du%20cuisinier%20amoureux%2C%20Les%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1252|Contempt (Mépris, Le) (1963)|https://www.imdb.com/find?q=M%E9pris%2C+Le+(1963)&s=tt&ttype=ft&ref_=fn_ft
+1253|Tie That Binds, The (1995)|https://www.imdb.com/find?q=Tie%20That%20Binds,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1254|Gone Fishin' (1997)|https://www.imdb.com/find?q=Gone%20Fishin'%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1255|Broken English (1996)|https://www.imdb.com/find?q=Broken%20English%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1256|Designated Mourner, The (1997)|https://www.imdb.com/find?q=Designated%20Mourner%2C%20The%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1257|Designated Mourner, The (1997)|https://www.imdb.com/find?q=Designated%20Mourner%2C%20The%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1258|Trial and Error (1997)|https://www.imdb.com/find?q=Trial%20and%20Error%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1259|Pie in the Sky (1995)|https://www.imdb.com/find?q=Pie%20in%20the%20Sky%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1260|Total Eclipse (1995)|https://www.imdb.com/find?q=Total%20Eclipse%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1261|Run of the Country, The (1995)|https://www.imdb.com/find?q=Run%20of%20the%20Country,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1262|Walking and Talking (1996)|https://www.imdb.com/find?q=Walking%20and%20Talking%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1263|Foxfire (1996)|https://www.imdb.com/find?q=Foxfire%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1264|Nothing to Lose (1994)|https://www.imdb.com/find?q=Nothing%20to%20Lose%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1265|Star Maps (1997)|https://www.imdb.com/find?q=Star+Maps+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1266|Bread and Chocolate (Pane e cioccolata) (1973)|https://www.imdb.com/find?q=Pane%20e%20Cioccolata%20(1973)&s=tt&ttype=ft&ref_=fn_ft
+1267|Clockers (1995)|https://www.imdb.com/find?q=Clockers%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1268|Bitter Moon (1992)|https://www.imdb.com/find?q=Lunes%20de%20fiel%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1269|Love in the Afternoon (1957)|https://www.imdb.com/find?q=Love%20in%20the%20Afternoon%20(1957)&s=tt&ttype=ft&ref_=fn_ft
+1270|Life with Mikey (1993)|https://www.imdb.com/find?q=Life%20with%20Mikey%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1271|North (1994)|https://www.imdb.com/find?q=North%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1272|Talking About Sex (1994)|https://www.imdb.com/find?q=Talking%20About%20Sex%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1273|Color of Night (1994)|https://www.imdb.com/find?q=Color%20of%20Night%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1274|Robocop 3 (1993)|https://www.imdb.com/find?q=Robocop%203%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1275|Killer (Bulletproof Heart) (1994)|https://www.imdb.com/find?q=Killer%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1276|Sunset Park (1996)|https://www.imdb.com/find?q=Sunset%20Park%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1277|Set It Off (1996)|https://www.imdb.com/find?q=Set%20It%20Off%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1278|Selena (1997)|https://www.imdb.com/find?q=Selena%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1279|Wild America (1997)|https://www.imdb.com/find?q=Wild+America+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1280|Gang Related (1997)|https://www.imdb.com/find?q=Gang+Related+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1281|Manny & Lo (1996)|https://www.imdb.com/find?q=Manny%20&%20Lo%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1282|Grass Harp, The (1995)|https://www.imdb.com/find?q=Grass%20Harp,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1283|Out to Sea (1997)|https://www.imdb.com/find?q=Out+to+Sea+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1284|Before and After (1996)|https://www.imdb.com/find?q=Before%20and%20After%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1285|Princess Caraboo (1994)|https://www.imdb.com/find?q=Princess%20Caraboo%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1286|Shall We Dance? (1937)|https://www.imdb.com/find?q=Shall%20We%20Dance?%20(1937)&s=tt&ttype=ft&ref_=fn_ft
+1287|Ed (1996)|https://www.imdb.com/find?q=Ed%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1288|Denise Calls Up (1995)|https://www.imdb.com/find?q=Denise%20Calls%20Up%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1289|Jack and Sarah (1995)|https://www.imdb.com/find?q=Jack%20and%20Sarah%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1290|Country Life (1994)|https://www.imdb.com/find?q=Country%20Life%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1291|Celtic Pride (1996)|https://www.imdb.com/find?q=Celtic%20Pride%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1292|Simple Wish, A (1997)|https://www.imdb.com/find?q=Simple+Wish%2C+A+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1294|Ayn Rand: A Sense of Life (1997)|https://www.imdb.com/find?q=Ayn+Rand%3A+A+Sense+of+Life+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1295|Kicked in the Head (1997)|https://www.imdb.com/find?q=Kicked+in+the+Head+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1296|Indian Summer (1996)|https://www.imdb.com/find?q=Indian+Summer+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1297|Love Affair (1994)|https://www.imdb.com/find?q=Love%20Affair%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1298|Band Wagon, The (1953)|https://www.imdb.com/find?q=Band%20Wagon,%20The%20(1953)&s=tt&ttype=ft&ref_=fn_ft
+1299|Penny Serenade (1941)|https://www.imdb.com/find?q=Penny%20Serenade%20(1941)&s=tt&ttype=ft&ref_=fn_ft
+1300|'Til There Was You (1997)|https://www.imdb.com/find?q=%27Til+There+Was+You+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1301|Stripes (1981)|https://www.imdb.com/find?q=Stripes+(1981)&s=tt&ttype=ft&ref_=fn_ft
+1302|Late Bloomers (1996)|https://www.imdb.com/find?q=Late%20Bloomers%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1303|Getaway, The (1994)|https://www.imdb.com/find?q=Getaway,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1304|New York Cop (1996)|https://www.imdb.com/find?q=New+York+Cop+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1305|National Lampoon's Senior Trip (1995)|https://www.imdb.com/find?q=National%20Lampoon's%20Senior%20Trip%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1306|Delta of Venus (1994)|https://www.imdb.com/find?q=Delta%20of%20Venus%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1307|Carmen Miranda: Bananas Is My Business (1994)|https://www.imdb.com/find?q=Carmen%20Miranda:%20Bananas%20Is%20My%20Business%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1308|Babyfever (1994)|https://www.imdb.com/find?q=Babyfever%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1309|Very Natural Thing, A (1974)|https://www.imdb.com/find?q=Very%20Natural%20Thing,%20A%20(1974)&s=tt&ttype=ft&ref_=fn_ft
+1310|Walk in the Sun, A (1945)|https://www.imdb.com/find?q=Walk%20in%20the%20Sun,%20A%20(1945)&s=tt&ttype=ft&ref_=fn_ft
+1311|Waiting to Exhale (1995)|https://www.imdb.com/find?q=Waiting%20to%20Exhale%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1312|Pompatus of Love, The (1996)|https://www.imdb.com/find?q=Pompatus%20of%20Love,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1313|Palmetto (1998)|https://www.imdb.com/find?q=Palmetto+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1314|Surviving the Game (1994)|https://www.imdb.com/find?q=Surviving%20the%20Game%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1315|Inventing the Abbotts (1997)|https://www.imdb.com/find?q=Inventing%20the%20Abbotts%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1317|Journey of August King, The (1995)|https://www.imdb.com/find?q=Journey%20of%20August%20King,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1318|Catwalk (1995)|https://www.imdb.com/find?q=Catwalk+(1995/I)&s=tt&ttype=ft&ref_=fn_ft
+1319|Neon Bible, The (1995)|https://www.imdb.com/find?q=Neon%20Bible,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1320|Homage (1995)|https://www.imdb.com/find?q=Homage%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1321|Open Season (1996)|https://www.imdb.com/find?q=Open+Season+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1322|Metisse (Café au Lait) (1993)|https://www.imdb.com/find?q=M%E9tisse+(1993)&s=tt&ttype=ft&ref_=fn_ft
+1323|Wooden Man's Bride, The (Wu Kui) (1994)|https://www.imdb.com/find?q=Wu%20Kui%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1324|Loaded (1994)|https://www.imdb.com/find?q=Loaded%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1325|August (1996)|https://www.imdb.com/find?q=August%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1326|Boys (1996)|https://www.imdb.com/find?q=Boys%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1327|Captives (1994)|https://www.imdb.com/find?q=Captives+(1994)&s=tt&ttype=ft&ref_=fn_ft
+1328|Of Love and Shadows (1994)|https://www.imdb.com/find?q=Of%20Love%20and%20Shadows%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1329|Low Life, The (1994)|https://www.imdb.com/find?q=Low+Life,+The+(1994/I)&s=tt&ttype=ft&ref_=fn_ft
+1330|An Unforgettable Summer (1994)|https://www.imdb.com/find?q=Un+%E9t%E9+inoubliable+(1994)&s=tt&ttype=ft&ref_=fn_ft
+1331|Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)|https://www.imdb.com/find?q=Last%20Klezmer%3A%20Leopold%20Kozlowski%2C%20His%20Life%20and%20Music%2C%20The%20%281995%29&s=tt&ttype=ft&ref_=fn_ft
+1332|My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)|https://www.imdb.com/find?q=En%20compagnie%20d'Antonin%20Artaud%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1333|Midnight Dancers (Sibak) (1994)|https://www.imdb.com/find?q=Sibak%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1334|Somebody to Love (1994)|https://www.imdb.com/find?q=Somebody+to+Love+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1335|American Buffalo (1996)|https://www.imdb.com/find?q=American%20Buffalo%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1336|Kazaam (1996)|https://www.imdb.com/find?q=Kazaam%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1337|Larger Than Life (1996)|https://www.imdb.com/find?q=Larger%20Than%20Life%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1338|Two Deaths (1995)|https://www.imdb.com/find?q=Two+Deaths+(1995)&s=tt&ttype=ft&ref_=fn_ft
+1339|Stefano Quantestorie (1993)|https://www.imdb.com/find?q=Stefano%20Quantestorie%20%281993%29&s=tt&ttype=ft&ref_=fn_ft
+1340|Crude Oasis, The (1995)|https://www.imdb.com/find?q=Crude%20Oasis,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1341|Hedd Wyn (1992)|https://www.imdb.com/find?q=Hedd%20Wyn%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1342|Convent, The (Convento, O) (1995)|https://www.imdb.com/find?q=Convento,%20O%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1343|Lotto Land (1995)|https://www.imdb.com/find?q=Lotto%20Land%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1344|Story of Xinghua, The (1993)|https://www.imdb.com/find?q=Story%20of%20Xinghua,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1345|Day the Sun Turned Cold, The (Tianguo niezi) (1994)|https://www.imdb.com/find?q=Tianguo%20Niezi%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1346|Dingo (1992)|https://www.imdb.com/find?q=Dingo%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1347|Ballad of Narayama, The (Narayama Bushiko) (1958)|https://www.imdb.com/find?q=Narayama%20Bushiko%20%281958%29&s=tt&ttype=ft&ref_=fn_ft
+1348|Every Other Weekend (1990)|https://www.imdb.com/find?q=Un+week-end+sur+deux+(1990)&s=tt&ttype=ft&ref_=fn_ft
+1349|Mille bolle blu (1993)|https://www.imdb.com/find?q=Mille%20bolle%20blu%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1350|Crows and Sparrows (1949)|https://www.imdb.com/find?q=Wuya+yu+maque+(1949)&s=tt&ttype=ft&ref_=fn_ft
+1351|Lover's Knot (1996)|https://www.imdb.com/find?q=Lover's%20Knot%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1352|Shadow of Angels (Schatten der Engel) (1976)|https://www.imdb.com/find?q=Schatten%20der%20Engel%20(1976)&s=tt&ttype=ft&ref_=fn_ft
+1353|1-900 (1994)|https://www.imdb.com/find?q=06%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1354|Venice/Venice (1992)|https://www.imdb.com/find?q=Venice/Venice%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1355|Infinity (1996)|https://www.imdb.com/find?q=Infinity%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1356|Ed's Next Move (1996)|https://www.imdb.com/find?q=Ed%27s%20Next%20Move%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1357|For the Moment (1994)|https://www.imdb.com/find?q=For%20the%20Moment%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1358|The Deadly Cure (1996)|https://www.imdb.com/find?q=&s=tt&ttype=ft&ref_=fn_ft
+1359|Boys in Venice (1996)|https://www.imdb.com/find?q=&s=tt&ttype=ft&ref_=fn_ft
+1360|Sexual Life of the Belgians, The (1994)|https://www.imdb.com/find?q=Vie%20sexuelle%20des%20Belges,%20La%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1361|Search for One-eye Jimmy, The (1996)|https://www.imdb.com/find?q=Search%20for%20One-eye%20Jimmy,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1362|American Strays (1996)|https://www.imdb.com/find?q=American%20Strays%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1363|Leopard Son, The (1996)|https://www.imdb.com/find?q=Leopard%20Son,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1364|Bird of Prey (1996)|https://www.imdb.com/find?q=Bird%20of%20Prey%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1365|Johnny 100 Pesos (1993)|https://www.imdb.com/find?q=Johnny%20100%20Pesos%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1366|JLG/JLG - autoportrait de décembre (1994)|https://www.imdb.com/find?q=JLG/JLG%20-%20autoportrait%20de%20d%E9cembre%20%281994%29&s=tt&ttype=ft&ref_=fn_ft
+1367|Faust (1994)|https://www.imdb.com/find?q=Faust%20%281994%29&s=tt&ttype=ft&ref_=fn_ft
+1368|Mina Tannenbaum (1994)|https://www.imdb.com/find?q=Mina%20Tannenbaum%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1369|Forbidden Christ, The (Cristo proibito, Il) (1950)|https://www.imdb.com/find?q=Cristo%20proibito%2C%20Il%20%281950%29&s=tt&ttype=ft&ref_=fn_ft
+1370|I Can't Sleep (J'ai pas sommeil) (1994)|https://www.imdb.com/find?q=J'ai%20pas%20sommeil%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1371|Machine, The (1994)|https://www.imdb.com/find?q=Machine,%20La%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1372|Stranger, The (1994)|https://www.imdb.com/find?q=Stranger,+The+(1994/II)&s=tt&ttype=ft&ref_=fn_ft
+1373|Good Morning (1971)|https://www.imdb.com/find?q=Good%20Morning%20(1971)&s=tt&ttype=ft&ref_=fn_ft
+1374|Falling in Love Again (1980)|https://www.imdb.com/find?q=Falling%20in%20Love%20Again%20(1980)&s=tt&ttype=ft&ref_=fn_ft
+1375|Cement Garden, The (1993)|https://www.imdb.com/find?q=Cement%20Garden,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1376|Meet Wally Sparks (1997)|https://www.imdb.com/find?q=Meet%20Wally%20Sparks%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1377|Hotel de Love (1996)|https://www.imdb.com/find?q=Hotel%20de%20Love%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1378|Rhyme & Reason (1997)|https://www.imdb.com/find?q=Rhyme%20%26%20Reason%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1379|Love and Other Catastrophes (1996)|https://www.imdb.com/find?q=Love%20and%20Other%20Catastrophes%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1380|Hollow Reed (1996)|https://www.imdb.com/find?q=Hollow+Reed+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1381|Losing Chase (1996)|https://www.imdb.com/find?q=Losing%20Chase%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1382|Bonheur, Le (1965)|https://www.imdb.com/find?q=Bonheur%2C%20Le%20%281965%29&s=tt&ttype=ft&ref_=fn_ft
+1383|Second Jungle Book: Mowgli & Baloo, The (1997)|https://www.imdb.com/find?q=Second%20Jungle%20Book%3A%20Mowgli%20%26%20Baloo%2C%20The%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1384|Squeeze (1996)|https://www.imdb.com/find?q=Squeeze%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1385|Roseanna's Grave (For Roseanna) (1997)|https://www.imdb.com/find?q=Roseanna%27s+Grave+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1386|Tetsuo II: Body Hammer (1992)|https://www.imdb.com/find?q=Tetsuo+II%3A+Body+Hammer+(1992)&s=tt&ttype=ft&ref_=fn_ft
+1387|Fall (1997)|https://www.imdb.com/find?q=Fall+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1388|Gabbeh (1996)|https://www.imdb.com/find?q=Gabbeh+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1389|Mondo (1996)|https://www.imdb.com/find?q=Mondo+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1390|Innocent Sleep, The (1995)|https://www.imdb.com/find?q=Innocent+Sleep%2C+The+(1995)&s=tt&ttype=ft&ref_=fn_ft
+1391|For Ever Mozart (1996)|https://www.imdb.com/find?q=For+Ever+Mozart+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1392|Locusts, The (1997)|https://www.imdb.com/find?q=Locusts%2C+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1393|Stag (1997)|https://www.imdb.com/find?q=Stag+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1394|Swept from the Sea (1997)|https://www.imdb.com/find?q=Swept+from+the+Sea+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1395|Hurricane Streets (1998)|https://www.imdb.com/find?q=Hurricane+Streets+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1396|Stonewall (1995)|https://www.imdb.com/find?q=Stonewall%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1397|Of Human Bondage (1934)|https://www.imdb.com/find?q=Of%20Human%20Bondage%20(1934)&s=tt&ttype=ft&ref_=fn_ft
+1398|Anna (1996)|https://www.imdb.com/find?q=Anna%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1400|Picture Bride (1995)|https://www.imdb.com/find?q=Picture%20Bride%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1401|M. Butterfly (1993)|https://www.imdb.com/find?q=M.%20Butterfly%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1402|Ciao, Professore! (1993)|https://www.imdb.com/find?q=Io%20speriamo%20che%20me%20la%20cavo%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1403|Caro Diario (Dear Diary) (1994)|https://www.imdb.com/find?q=Caro%20diario%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1404|Withnail and I (1987)|https://www.imdb.com/find?q=Withnail%20and%20I%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+1405|Boy's Life 2 (1997)|https://www.imdb.com/find?q=Boy%27s%20Life%202%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1406|When Night Is Falling (1995)|https://www.imdb.com/find?q=When%20Night%20is%20Falling%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1407|Specialist, The (1994)|https://www.imdb.com/find?q=Specialist,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1408|Gordy (1995)|https://www.imdb.com/find?q=Gordy%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1409|Swan Princess, The (1994)|https://www.imdb.com/find?q=Swan%20Princess,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1410|Harlem (1993)|https://www.imdb.com/find?q=Harlem%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1411|Barbarella (1968)|https://www.imdb.com/find?q=Barbarella%20(1968)&s=tt&ttype=ft&ref_=fn_ft
+1412|Land Before Time III: The Time of the Great Giving (1995) (V)|https://www.imdb.com/find?q=Land%20Before%20Time%20III%3A%20The%20Time%20of%20the%20Great%20Giving%20%281995%29%20%28V%29&s=tt&ttype=ft&ref_=fn_ft
+1413|Street Fighter (1994)|https://www.imdb.com/find?q=Street%20Fighter%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1414|Coldblooded (1995)|https://www.imdb.com/find?q=Coldblooded%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1415|Next Karate Kid, The (1994)|https://www.imdb.com/find?q=Next%20Karate%20Kid,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1416|No Escape (1994)|https://www.imdb.com/find?q=No%20Escape%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1417|Turning, The (1992)|https://www.imdb.com/find?q=Turning%2C%20The%20%281992%29&s=tt&ttype=ft&ref_=fn_ft
+1418|Joy Luck Club, The (1993)|https://www.imdb.com/find?q=Joy+Luck+Club%2C+The+(1993)&s=tt&ttype=ft&ref_=fn_ft
+1419|Highlander III: The Sorcerer (1994)|https://www.imdb.com/find?q=Highlander%20III:%20The%20Sorcerer%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1421|My Crazy Life (Mi vida loca) (1993)|https://www.imdb.com/find?q=Mi%20vida%20loca%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1422|Suture (1993)|https://www.imdb.com/find?q=Suture%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1423|Walking Dead, The (1995)|https://www.imdb.com/find?q=Walking%20Dead,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1424|I Like It Like That (1994)|https://www.imdb.com/find?q=I%20Like%20It%20Like%20That%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1425|I'll Do Anything (1994)|https://www.imdb.com/find?q=I'll%20Do%20Anything%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1426|Grace of My Heart (1996)|https://www.imdb.com/find?q=Grace%20of%20My%20Heart%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1427|Drunks (1995)|https://www.imdb.com/find?q=Drunks%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1428|SubUrbia (1997)|https://www.imdb.com/find?q=SubUrbia%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1429|Sliding Doors (1998)|https://www.imdb.com/find?q=Sliding+Doors+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1431|Legal Deceit (1997)|https://www.imdb.com/find?q=Legal+Deceit+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1432|Mighty, The (1998)|https://www.imdb.com/find?q=Mighty,+The+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1435|Steal Big, Steal Little (1995)|https://www.imdb.com/find?q=Steal%20Big,%20Steal%20Little%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1436|Mr. Jones (1993)|https://www.imdb.com/find?q=Mr.%20Jones%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1437|House Party 3 (1994)|https://www.imdb.com/find?q=House%20Party%203%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1438|Panther (1995)|https://www.imdb.com/find?q=Panther%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1439|Jason's Lyric (1994)|https://www.imdb.com/find?q=Jason's%20Lyric%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1440|Above the Rim (1994)|https://www.imdb.com/find?q=Above%20the%20Rim%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1441|Moonlight and Valentino (1995)|https://www.imdb.com/find?q=Moonlight%20and%20Valentino%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1442|Scarlet Letter, The (1995)|https://www.imdb.com/find?q=Scarlet%20Letter,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1443|8 Seconds (1994)|https://www.imdb.com/find?q=8%20Seconds%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1444|That Darn Cat! (1965)|https://www.imdb.com/find?q=That+Darn+Cat%21+(1965)&s=tt&ttype=ft&ref_=fn_ft
+1445|Ladybird Ladybird (1994)|https://www.imdb.com/find?q=Ladybird%20Ladybird%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1446|Bye Bye, Love (1995)|https://www.imdb.com/find?q=Bye%20Bye,%20Love%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1447|Century (1993)|https://www.imdb.com/find?q=Century%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1448|My Favorite Season (1993)|https://www.imdb.com/find?q=Ma+saison+pr%E9f%E9r%E9e+(1993)&s=tt&ttype=ft&ref_=fn_ft
+1449|Pather Panchali (1955)|https://www.imdb.com/find?q=Pather%20Panchali%20(1955)&s=tt&ttype=ft&ref_=fn_ft
+1450|Golden Earrings (1947)|https://www.imdb.com/find?q=Golden%20Earrings%20%281947%29&s=tt&ttype=ft&ref_=fn_ft
+1451|Foreign Correspondent (1940)|https://www.imdb.com/find?q=Foreign%20Correspondent%20(1940)&s=tt&ttype=ft&ref_=fn_ft
+1452|Lady of Burlesque (1943)|https://www.imdb.com/find?q=Lady%20of%20Burlesque%20(1943)&s=tt&ttype=ft&ref_=fn_ft
+1453|Angel on My Shoulder (1946)|https://www.imdb.com/find?q=Angel%20on%20My%20Shoulder%20(1946)&s=tt&ttype=ft&ref_=fn_ft
+1454|Angel and the Badman (1947)|https://www.imdb.com/find?q=Angel%20and%20the%20Badman%20(1947)&s=tt&ttype=ft&ref_=fn_ft
+1455|Outlaw, The (1943)|https://www.imdb.com/find?q=Outlaw,%20The%20(1943)&s=tt&ttype=ft&ref_=fn_ft
+1456|Beat the Devil (1954)|https://www.imdb.com/find?q=Beat%20the%20Devil%20(1954)&s=tt&ttype=ft&ref_=fn_ft
+1457|Love Is All There Is (1996)|https://www.imdb.com/find?q=Love%20Is%20All%20There%20Is%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1458|Damsel in Distress, A (1937)|https://www.imdb.com/find?q=Damsel%20in%20Distress,%20A%20(1937)&s=tt&ttype=ft&ref_=fn_ft
+1459|Madame Butterfly (1995)|https://www.imdb.com/find?q=Madame%20Butterfly%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1460|Sleepover (1995)|https://www.imdb.com/find?q=Sleepover%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1461|Here Comes Cookie (1935)|https://www.imdb.com/find?q=Here%20Comes%20Cookie%20(1935)&s=tt&ttype=ft&ref_=fn_ft
+1462|Thieves (Voleurs, Les) (1996)|https://www.imdb.com/find?q=Voleurs,%20Les%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1464|Stars Fell on Henrietta, The (1995)|https://www.imdb.com/find?q=Stars+Fell+on+Henrietta,+The+(1995)&s=tt&ttype=ft&ref_=fn_ft
+1465|Last Summer in the Hamptons (1995)|https://www.imdb.com/find?q=Last%20Summer%20in%20the%20Hamptons%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1466|Margaret's Museum (1995)|https://www.imdb.com/find?q=Margaret's%20Museum%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1467|Saint of Fort Washington, The (1993)|https://www.imdb.com/find?q=Saint%20of%20Fort%20Washington,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1468|Cure, The (1995)|https://www.imdb.com/find?q=Cure,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1469|Tom and Huck (1995)|https://www.imdb.com/find?q=Tom%20and%20Huck%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1470|Gumby: The Movie (1995)|https://www.imdb.com/find?q=Gumby:%20The%20Movie%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1471|Hideaway (1995)|https://www.imdb.com/find?q=Hideaway%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1472|Visitors, The (Visiteurs, Les) (1993)|https://www.imdb.com/find?q=Visiteurs,%20Les%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1473|Little Princess, The (1939)|https://www.imdb.com/find?q=Little%20Princess,%20The%20(1939)&s=tt&ttype=ft&ref_=fn_ft
+1474|Nina Takes a Lover (1994)|https://www.imdb.com/find?q=Nina%20Takes%20a%20Lover%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1475|Bhaji on the Beach (1993)|https://www.imdb.com/find?q=Bhaji%20on%20the%20Beach%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1476|Raw Deal (1948)|https://www.imdb.com/find?q=Raw%20Deal%20(1948)&s=tt&ttype=ft&ref_=fn_ft
+1477|Nightwatch (1997)|https://www.imdb.com/find?q=Nightwatch%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1478|Dead Presidents (1995)|https://www.imdb.com/find?q=Dead%20Presidents%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1479|Reckless (1995)|https://www.imdb.com/find?q=Reckless+(1995/I)&s=tt&ttype=ft&ref_=fn_ft
+1480|Herbie Rides Again (1974)|https://www.imdb.com/find?q=Herbie%20Rides%20Again%20(1974)&s=tt&ttype=ft&ref_=fn_ft
+1481|S.F.W. (1994)|https://www.imdb.com/find?q=S.F.W.%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1482|Gate of Heavenly Peace, The (1995)|https://www.imdb.com/find?q=Gate%20of%20Heavenly%20Peace,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1483|Man in the Iron Mask, The (1998)|https://www.imdb.com/find?q=Man+in+the+Iron+Mask,+The+(1998/I)&s=tt&ttype=ft&ref_=fn_ft
+1484|Jerky Boys, The (1994)|https://www.imdb.com/find?q=Jerky%20Boys,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1485|Colonel Chabert, Le (1994)|https://www.imdb.com/find?q=Colonel%20Chabert,%20Le%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1486|Girl in the Cadillac (1995)|https://www.imdb.com/find?q=Girl%20in%20the%20Cadillac%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1487|Even Cowgirls Get the Blues (1993)|https://www.imdb.com/find?q=Even%20Cowgirls%20Get%20the%20Blues%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1488|Germinal (1993)|https://www.imdb.com/find?q=Germinal%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1489|Chasers (1994)|https://www.imdb.com/find?q=Chasers%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1490|Fausto (1993)|https://www.imdb.com/find?q=Fausto%20%281993%29&s=tt&ttype=ft&ref_=fn_ft
+1491|Tough and Deadly (1995)|https://www.imdb.com/find?q=Tough%20and%20Deadly%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1492|Window to Paris (1994)|https://www.imdb.com/find?q=Okno+v+Parizh+(1994)&s=tt&ttype=ft&ref_=fn_ft
+1493|Modern Affair, A (1995)|https://www.imdb.com/find?q=Modern%20Affair,%20A%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1494|Mostro, Il (1994)|https://www.imdb.com/find?q=Mostro,%20Il%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1495|Flirt (1995)|https://www.imdb.com/find?q=Flirt+(1995/I)&s=tt&ttype=ft&ref_=fn_ft
+1496|Carpool (1996)|https://www.imdb.com/find?q=Carpool%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1497|Line King: Al Hirschfeld, The (1996)|https://www.imdb.com/find?q=Line%20King,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1498|Farmer & Chase (1995)|https://www.imdb.com/find?q=Farmer%20&%20Chase%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1499|Grosse Fatigue (1994)|https://www.imdb.com/find?q=Grosse%20fatigue%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1500|Santa with Muscles (1996)|https://www.imdb.com/find?q=Santa%20with%20Muscles%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1501|Prisoner of the Mountains (Kavkazsky Plennik) (1996)|https://www.imdb.com/find?q=Kavkazsky%20Plennik%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1502|Naked in New York (1994)|https://www.imdb.com/find?q=Naked+in+New+York+(1994)&s=tt&ttype=ft&ref_=fn_ft
+1503|Gold Diggers: The Secret of Bear Mountain (1995)|https://www.imdb.com/find?q=Gold%20Diggers:%20The%20Secret%20of%20Bear%20Mountain%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1504|Bewegte Mann, Der (1994)|https://www.imdb.com/find?q=Bewegte%20Mann%2C%20Der%20%281994%29&s=tt&ttype=ft&ref_=fn_ft
+1505|Killer: A Journal of Murder (1995)|https://www.imdb.com/find?q=Killer:%20A%20Journal%20of%20Murder%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1506|Nelly & Monsieur Arnaud (1995)|https://www.imdb.com/find?q=Nelly%20%26%20Monsieur%20Arnaud%20%281995%29&s=tt&ttype=ft&ref_=fn_ft
+1507|Three Lives and Only One Death (1996)|https://www.imdb.com/find?q=Trois%20vies%20et%20une%20seule%20mort%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1508|Babysitter, The (1995)|https://www.imdb.com/find?q=Babysitter,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1509|Getting Even with Dad (1994)|https://www.imdb.com/find?q=Getting%20Even%20with%20Dad%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1510|Mad Dog Time (1996)|https://www.imdb.com/find?q=Mad%20Dog%20Time%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1511|Children of the Revolution (1996)|https://www.imdb.com/find?q=Children%20of%20the%20Revolution%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1512|World of Apu, The (Apur Sansar) (1959)|https://www.imdb.com/find?q=Apur%20Sansar%20(1959)&s=tt&ttype=ft&ref_=fn_ft
+1513|Sprung (1997)|https://www.imdb.com/find?q=Sprung%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1514|Dream With the Fishes (1997)|https://www.imdb.com/find?q=Dream+With+the+Fishes+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1515|Wings of Courage (1995)|https://www.imdb.com/find?q=Wings%20of%20Courage%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1516|Wedding Gift, The (1994)|https://www.imdb.com/find?q=Wedding%20Gift,%20The%20(1994)%20(TV)&s=tt&ttype=ft&ref_=fn_ft
+1517|Race the Sun (1996)|https://www.imdb.com/find?q=Race%20the%20Sun%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1518|Losing Isaiah (1995)|https://www.imdb.com/find?q=Losing%20Isaiah%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1519|New Jersey Drive (1995)|https://www.imdb.com/find?q=New%20Jersey%20Drive%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1520|Fear, The (1995)|https://www.imdb.com/find?q=Fear,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1521|Mr. Wonderful (1993)|https://www.imdb.com/find?q=Mr.%20Wonderful%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1522|Trial by Jury (1994)|https://www.imdb.com/find?q=Trial%20by%20Jury%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1523|Good Man in Africa, A (1994)|https://www.imdb.com/find?q=Good%20Man%20in%20Africa,%20A%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1524|Kaspar Hauser (1993)|https://www.imdb.com/find?q=Kaspar+Hauser+(1993)&s=tt&ttype=ft&ref_=fn_ft
+1525|Object of My Affection, The (1998)|https://www.imdb.com/find?q=Object+of+My+Affection,+The+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1526|Witness (1985)|https://www.imdb.com/find?q=Witness+(1985)&s=tt&ttype=ft&ref_=fn_ft
+1528|Nowhere (1997)|https://www.imdb.com/find?q=Nowhere%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1529|Underground (1995)|https://www.imdb.com/find?q=Underground%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1530|Jefferson in Paris (1995)|https://www.imdb.com/find?q=Jefferson%20in%20Paris%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1531|Far From Home: The Adventures of Yellow Dog (1995)|https://www.imdb.com/find?q=Far%20From%20Home:%20The%20Adventures%20of%20Yellow%20Dog%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1532|Foreign Student (1994)|https://www.imdb.com/find?q=Foreign%20Student%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1533|I Don't Want to Talk About It (De eso no se habla) (1993)|https://www.imdb.com/find?q=De%20Eso%20No%20Se%20Habla%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1534|Twin Town (1997)|https://www.imdb.com/find?q=Twin%20Town%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1535|Enfer, L' (1994)|https://www.imdb.com/find?q=Enfer,%20L'%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1536|Aiqing wansui (1994)|https://www.imdb.com/find?q=Aiqing%20Wansui%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1537|Cosi (1996)|https://www.imdb.com/find?q=Cosi%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1538|All Over Me (1997)|https://www.imdb.com/find?q=All%20Over%20Me%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1539|Being Human (1993)|https://www.imdb.com/find?q=Being%20Human%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1540|Amazing Panda Adventure, The (1995)|https://www.imdb.com/find?q=Amazing%20Panda%20Adventure,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1541|Beans of Egypt, Maine, The (1994)|https://www.imdb.com/find?q=Beans%20of%20Egypt,%20Maine,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1542|Scarlet Letter, The (1926)|https://www.imdb.com/find?q=Scarlet%20Letter,%20The%20(1926)&s=tt&ttype=ft&ref_=fn_ft
+1543|Johns (1996)|https://www.imdb.com/find?q=Johns%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1544|It Takes Two (1995)|https://www.imdb.com/find?q=It%20Takes%20Two%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1545|Frankie Starlight (1995)|https://www.imdb.com/find?q=Frankie%20Starlight%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1546|Shadows (Cienie) (1988)|https://www.imdb.com/find?q=Cienie%20(1988)&s=tt&ttype=ft&ref_=fn_ft
+1547|Show, The (1995)|https://www.imdb.com/find?q=Show,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1548|The Courtyard (1995)|https://www.imdb.com/find?q=Courtyard,%20The%20(1995)%20(TV)&s=tt&ttype=ft&ref_=fn_ft
+1549|Dream Man (1995)|https://www.imdb.com/find?q=Dream%20Man%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1550|Destiny Turns on the Radio (1995)|https://www.imdb.com/find?q=Destiny%20Turns%20on%20the%20Radio%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1551|Glass Shield, The (1994)|https://www.imdb.com/find?q=Glass%20Shield,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1552|Hunted, The (1995)|https://www.imdb.com/find?q=Hunted,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1553|Underneath, The (1995)|https://www.imdb.com/find?q=Underneath,%20The%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1554|Safe Passage (1994)|https://www.imdb.com/find?q=Safe%20Passage%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1555|Secret Adventures of Tom Thumb, The (1993)|https://www.imdb.com/find?q=Secret%20Adventures%20of%20Tom%20Thumb,%20The%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1556|Condition Red (1995)|https://www.imdb.com/find?q=Condition%20Red%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1557|Yankee Zulu (1994)|https://www.imdb.com/find?q=Yankee%20Zulu%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1558|Aparajito (1956)|https://www.imdb.com/find?q=Aparajito%20(1956)&s=tt&ttype=ft&ref_=fn_ft
+1559|Hostile Intentions (1994)|https://www.imdb.com/find?q=Hostile%20Intentions%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1560|Clean Slate (Coup de Torchon) (1981)|https://www.imdb.com/find?q=Coup%20de%20torchon%20(1981)&s=tt&ttype=ft&ref_=fn_ft
+1561|Tigrero: A Film That Was Never Made (1994)|https://www.imdb.com/find?q=Tigrero:%20A%20Film%20That%20Was%20Never%20Made%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1562|Eye of Vichy, The (Oeil de Vichy, L') (1993)|https://www.imdb.com/find?q=Oeil%20de%20Vichy,%20L'%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1563|Promise, The (Versprechen, Das) (1994)|https://www.imdb.com/find?q=Versprechen,%20Das%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1564|To Cross the Rubicon (1991)|https://www.imdb.com/find?q=To%20Cross%20the%20Rubicon%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+1565|Daens (1992)|https://www.imdb.com/find?q=Daens%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1566|Man from Down Under, The (1943)|https://www.imdb.com/find?q=Man+from+Down+Under,+The+(1943)&s=tt&ttype=ft&ref_=fn_ft
+1567|Careful (1992)|https://www.imdb.com/find?q=Careful%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1568|Vermont Is For Lovers (1992)|https://www.imdb.com/find?q=Vermont%20Is%20For%20Lovers%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1569|Vie est belle, La (Life is Rosey) (1987)|https://www.imdb.com/find?q=Vie%20est%20belle,%20La%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+1570|Quartier Mozart (1992)|https://www.imdb.com/find?q=Quartier%20Mozart%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1571|Touki Bouki (Journey of the Hyena) (1973)|https://www.imdb.com/find?q=Touki%20Bouki%20(1973)&s=tt&ttype=ft&ref_=fn_ft
+1572|Wend Kuuni (God's Gift) (1982)|https://www.imdb.com/find?q=Wend%20Kuuni%20(1982)&s=tt&ttype=ft&ref_=fn_ft
+1573|Spirits of the Dead (Tre passi nel delirio) (1968)|https://www.imdb.com/find?q=Tre%20passi%20nel%20delirio%20(1968)&s=tt&ttype=ft&ref_=fn_ft
+1574|Pharaoh's Army (1995)|https://www.imdb.com/find?q=Pharaoh's%20Army%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1575|I, Worst of All (Yo, la peor de todas) (1990)|https://www.imdb.com/find?q=Yo,%20la%20Peor%20de%20Todas%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+1576|Hungarian Fairy Tale, A (1987)|https://www.imdb.com/find?q=Hol%20volt,%20hol%20nem%20volt%20(1987)&s=tt&ttype=ft&ref_=fn_ft
+1577|Death in the Garden (Mort en ce jardin, La) (1956)|https://www.imdb.com/find?q=Mort+en+ce+jardin,+La+(1956)&s=tt&ttype=ft&ref_=fn_ft
+1578|Collectionneuse, La (1967)|https://www.imdb.com/find?q=Collectionneuse,%20La%20(1967)&s=tt&ttype=ft&ref_=fn_ft
+1579|Baton Rouge (1988)|https://www.imdb.com/find?q=B%E2ton+rouge+(1988)&s=tt&ttype=ft&ref_=fn_ft
+1580|Liebelei (1933)|https://www.imdb.com/find?q=Liebelei%20(1933)&s=tt&ttype=ft&ref_=fn_ft
+1581|Woman in Question, The (1950)|https://www.imdb.com/find?q=Woman%20in%20Question,%20The%20(1950)&s=tt&ttype=ft&ref_=fn_ft
+1582|T-Men (1947)|https://www.imdb.com/find?q=T-Men%20(1947)&s=tt&ttype=ft&ref_=fn_ft
+1583|Invitation, The (Zaproszenie) (1986)|https://www.imdb.com/find?q=Zaproszenie%20(1986)&s=tt&ttype=ft&ref_=fn_ft
+1584|Symphonie pastorale, La (1946)|https://www.imdb.com/find?q=Symphonie%20pastorale,%20La%20(1946)&s=tt&ttype=ft&ref_=fn_ft
+1585|American Dream (1990)|https://www.imdb.com/find?q=American%20Dream%20(1990)&s=tt&ttype=ft&ref_=fn_ft
+1586|Lashou shentan (1992)|https://www.imdb.com/find?q=Lashou%20Shentan%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1587|Terror in a Texas Town (1958)|https://www.imdb.com/find?q=Terror%20in%20a%20Texas%20Town%20(1958)&s=tt&ttype=ft&ref_=fn_ft
+1588|Salut cousin! (1996)|https://www.imdb.com/find?q=Salut%20cousin!%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1589|Schizopolis (1996)|https://www.imdb.com/find?q=Schizopolis+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1590|To Have, or Not (1995)|https://www.imdb.com/find?q=En%20avoir%20%28ou%20pas%29%20%281995%29&s=tt&ttype=ft&ref_=fn_ft
+1593|Death in Brunswick (1991)|https://www.imdb.com/find?q=Death%20in%20Brunswick%20(1991)&s=tt&ttype=ft&ref_=fn_ft
+1594|Everest (1998)|https://www.imdb.com/find?q=Everest+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1595|Shopping (1994)|https://www.imdb.com/find?q=Shopping%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1596|Nemesis 2: Nebula (1995)|https://www.imdb.com/find?q=Nemesis%202:%20Nebula%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1597|Romper Stomper (1992)|https://www.imdb.com/find?q=Romper%20Stomper%20(1992)&s=tt&ttype=ft&ref_=fn_ft
+1598|City of Industry (1997)|https://www.imdb.com/find?q=City%20of%20Industry%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1599|Someone Else's America (1995)|https://www.imdb.com/find?q=Someone%20Else's%20America%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1600|Guantanamera (1994)|https://www.imdb.com/find?q=Guantanamera%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1602|Price Above Rubies, A (1998)|https://www.imdb.com/find?q=Price+Above+Rubies,+A+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1603|Angela (1995)|https://www.imdb.com/find?q=Angela%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1604|He Walked by Night (1948)|https://www.imdb.com/find?q=He%20Walked%20by%20Night%20(1948)&s=tt&ttype=ft&ref_=fn_ft
+1605|Love Serenade (1996)|https://www.imdb.com/find?q=Love+Serenade+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1606|Deceiver (1997)|https://www.imdb.com/find?q=Liar+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1607|Hurricane Streets (1998)|https://www.imdb.com/find?q=Hurricane+Streets+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1608|Buddy (1997)|https://www.imdb.com/find?q=Buddy%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1609|B*A*P*S (1997)|https://www.imdb.com/find?q=B%2EA%2EP%2ES%2E%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1610|Truth or Consequences, N.M. (1997)|https://www.imdb.com/find?q=Truth+or+Consequences,+N.M.+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1611|Intimate Relations (1996)|https://www.imdb.com/find?q=Intimate%20Relations%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1613|Tokyo Fist (1995)|https://www.imdb.com/find?q=Tokyo+Fist+(1995)&s=tt&ttype=ft&ref_=fn_ft
+1614|Reluctant Debutante, The (1958)|https://www.imdb.com/find?q=Reluctant%20Debutante,%20The%20(1958)&s=tt&ttype=ft&ref_=fn_ft
+1615|Warriors of Virtue (1997)|https://www.imdb.com/find?q=Warriors%20of%20Virtue%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1616|Desert Winds (1995)|https://www.imdb.com/find?q=Desert%20Winds%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1617|Hugo Pool (1997)|https://www.imdb.com/find?q=Hugo+Pool+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1618|King of New York (1990)|https://www.imdb.com/find?q=King+of+New+York+(1990)&s=tt&ttype=ft&ref_=fn_ft
+1619|All Things Fair (1996)|https://www.imdb.com/find?q=Lust+och+f%E4gring+stor+(1995)&s=tt&ttype=ft&ref_=fn_ft
+1620|Sixth Man, The (1997)|https://www.imdb.com/find?q=Sixth%20Man%2C%20The%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1621|Butterfly Kiss (1995)|https://www.imdb.com/find?q=Butterfly%20Kiss%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1622|Paris, France (1993)|https://www.imdb.com/find?q=Paris,%20France%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1623|Cérémonie, La (1995)|https://www.imdb.com/find?q=C%E9r%E9monie%2C%20La%20%281995%29&s=tt&ttype=ft&ref_=fn_ft
+1624|Hush (1998)|https://www.imdb.com/find?q=Hush+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1625|Nightwatch (1997)|https://www.imdb.com/find?q=Nightwatch%20(1997)&s=tt&ttype=ft&ref_=fn_ft
+1626|Nobody Loves Me (Keiner liebt mich) (1994)|https://www.imdb.com/find?q=Keiner%20liebt%20mich%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1627|Wife, The (1995)|https://www.imdb.com/find?q=Wife,+The+(1995)&s=tt&ttype=ft&ref_=fn_ft
+1628|Lamerica (1994)|https://www.imdb.com/find?q=Lamerica%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1629|Nico Icon (1995)|https://www.imdb.com/find?q=Nico%20Icon%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1630|Silence of the Palace, The (Saimt el Qusur) (1994)|https://www.imdb.com/find?q=Saimt%20el%20Qusur%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1631|Slingshot, The (1993)|https://www.imdb.com/find?q=K%E5disbellan+(1993)&s=tt&ttype=ft&ref_=fn_ft
+1632|Land and Freedom (Tierra y libertad) (1995)|https://www.imdb.com/find?q=Tierra%20y%20libertad%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1633|Á köldum klaka (Cold Fever) (1994)|https://www.imdb.com/find?q=%C1+k%F6ldum+klaka+(1994)&s=tt&ttype=ft&ref_=fn_ft
+1634|Etz Hadomim Tafus (Under the Domin Tree) (1994)|https://www.imdb.com/find?q=Etz%20Hadomim%20Tafus%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1635|Two Friends (1986) |https://www.imdb.com/find?q=Two%20Friends%20(1986)%20(TV)&s=tt&ttype=ft&ref_=fn_ft
+1636|Brothers in Trouble (1995)|https://www.imdb.com/find?q=Brothers%20in%20Trouble%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1637|Girls Town (1996)|https://www.imdb.com/find?q=Girls%20Town%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1638|Normal Life (1996)|https://www.imdb.com/find?q=Normal%20Life%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1639|Bitter Sugar (Azucar Amargo) (1996)|https://www.imdb.com/find?q=Bitter%20Sugar%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1640|Eighth Day, The (1996)|https://www.imdb.com/find?q=Huiti%E8me+jour,+Le+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1641|Dadetown (1995)|https://www.imdb.com/find?q=Dadetown%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1642|Some Mother's Son (1996)|https://www.imdb.com/find?q=Some%20Mother's%20Son%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1643|Angel Baby (1995)|https://www.imdb.com/find?q=Angel+Baby+(1995/I)&s=tt&ttype=ft&ref_=fn_ft
+1644|Sudden Manhattan (1996)|https://www.imdb.com/find?q=Sudden%20Manhattan%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1646|Men With Guns (1997)|https://www.imdb.com/find?q=Men+with+Guns+(1997/I)&s=tt&ttype=ft&ref_=fn_ft
+1647|Hana-bi (1997)|https://www.imdb.com/find?q=Hana-bi+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1648|Niagara, Niagara (1997)|https://www.imdb.com/find?q=Niagara,+Niagara+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1649|Big One, The (1997)|https://www.imdb.com/find?q=Big+One,+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1651|Spanish Prisoner, The (1997)|https://www.imdb.com/find?q=Spanish+Prisoner,+The+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1652|Temptress Moon (Feng Yue) (1996)|https://www.imdb.com/find?q=Feng%20Yue%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1653|Entertaining Angels: The Dorothy Day Story (1996)|https://www.imdb.com/find?q=Entertaining%20Angels:%20The%20Dorothy%20Day%20Story%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1654|Chairman of the Board (1998)|https://www.imdb.com/find?q=Chairman+of+the+Board+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1655|Favor, The (1994)|https://www.imdb.com/find?q=Favor,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1656|Little City (1998)|https://www.imdb.com/find?q=Little+City+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1657|Target (1995)|https://www.imdb.com/find?q=Target%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1658|Substance of Fire, The (1996)|https://www.imdb.com/find?q=Substance%20of%20Fire,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1659|Getting Away With Murder (1996)|https://www.imdb.com/find?q=Getting+Away+With+Murder+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1660|Small Faces (1995)|https://www.imdb.com/find?q=Small%20Faces%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1661|New Age, The (1994)|https://www.imdb.com/find?q=New%20Age,%20The%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1662|Rough Magic (1995)|https://www.imdb.com/find?q=Rough%20Magic%20%281995%29&s=tt&ttype=ft&ref_=fn_ft
+1663|Nothing Personal (1995)|https://www.imdb.com/find?q=Nothing%20Personal%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1664|8 Heads in a Duffel Bag (1997)|https://www.imdb.com/find?q=8+Heads+in+a+Duffel+Bag+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1665|Brother's Kiss, A (1997)|https://www.imdb.com/find?q=Brother%27s%20Kiss%2C%20A%20%281997%29&s=tt&ttype=ft&ref_=fn_ft
+1666|Ripe (1996)|https://www.imdb.com/find?q=Ripe%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1667|Next Step, The (1995)|https://www.imdb.com/find?q=Next%20Step%2C%20The%20%281995%29&s=tt&ttype=ft&ref_=fn_ft
+1668|Wedding Bell Blues (1996)|https://www.imdb.com/find?q=Wedding%20Bell%20Blues%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1669|MURDER and murder (1996)|https://www.imdb.com/find?q=MURDER+and+murder+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1670|Tainted (1998)|https://www.imdb.com/find?q=Tainted+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1671|Further Gesture, A (1996)|https://www.imdb.com/find?q=Further+Gesture%2C+A+(1996)&s=tt&ttype=ft&ref_=fn_ft
+1672|Kika (1993)|https://www.imdb.com/find?q=Kika%20(1993)&s=tt&ttype=ft&ref_=fn_ft
+1673|Mirage (1995)|https://www.imdb.com/find?q=Mirage%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1674|Mamma Roma (1962)|https://www.imdb.com/find?q=Mamma%20Roma%20(1962)&s=tt&ttype=ft&ref_=fn_ft
+1675|Sunchaser, The (1996)|https://www.imdb.com/find?q=Sunchaser,%20The%20(1996)&s=tt&ttype=ft&ref_=fn_ft
+1676|War at Home, The (1996)|https://www.imdb.com/find?q=War%20at%20Home%2C%20The%20%281996%29&s=tt&ttype=ft&ref_=fn_ft
+1677|Sweet Nothing (1995)|https://www.imdb.com/find?q=Sweet%20Nothing%20(1995)&s=tt&ttype=ft&ref_=fn_ft
+1678|Mat' i syn (1997)|https://www.imdb.com/find?q=Mat%27+i+syn+(1997)&s=tt&ttype=ft&ref_=fn_ft
+1679|B. Monkey (1998)|https://www.imdb.com/find?q=B%2E+Monkey+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1680|Sliding Doors (1998)|https://www.imdb.com/find?q=Sliding+Doors+(1998)&s=tt&ttype=ft&ref_=fn_ft
+1681|You So Crazy (1994)|https://www.imdb.com/find?q=You%20So%20Crazy%20(1994)&s=tt&ttype=ft&ref_=fn_ft
+1682|Scream of Stone (Schrei aus Stein) (1991)|https://www.imdb.com/find?q=Schrei%20aus%20Stein%20(1991)&s=tt&ttype=ft&ref_=fn_ft
